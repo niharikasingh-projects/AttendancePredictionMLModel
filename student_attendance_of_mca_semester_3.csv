@@ -1,0 +1,515 @@
+﻿Date,Day_of_Week,Lecture_Number,Start_Time,End_Time,Subject,Faculty_ID,Semester,Branch,Section,Classroom,Total_Enrolled_Students,Students_Present,Attendance_Percentage,Previous_Lecture_Attendance_Pct,Gap_Since_Previous_Lecture_Hours,Practical_or_Theory,Internal_Test_Week,Assignment_Due,Holiday_Before_After,Weather,Special_Event,Faculty_Experience_Years
+15-06-2026,Monday,1,08:30:00,09:15:00,Mobile Application Development,F_SSP,3,MCA,A,Computer Lab,103,61,59.22,,,Theory,No,No,No,Cloudy,No,9
+15-06-2026,Monday,2,09:15:00,10:15:00,Mobile Application Development,F_SSP,3,MCA,A,Computer Lab,103,62,60.19,59.22,0,Theory,No,No,No,Cloudy,No,9
+15-06-2026,Monday,3,10:15:00,11:15:00,Software Testing and Quality Assurance,F_DPY,3,MCA,A,Computer Lab,103,77,74.76,60.19,0,Theory,No,No,No,Sunny,No,6
+15-06-2026,Monday,4,11:15:00,12:15:00,Principles of Cloud Management and Security,F_KSD,3,MCA,A,Computer Lab,103,60,58.25,74.76,0,Theory,No,No,No,Rainy,No,7
+15-06-2026,Monday,5,13:30:00,15:30:00,Innovation and Entrepreneurship Development,F_JSP,3,MCA,A,Computer Lab,103,28,27.18,58.25,1.25,Theory,No,No,No,Sunny,Yes,12
+15-06-2026,Monday,1,08:30:00,09:15:00,Mobile Application Development,F_SSP,3,MCA,B,Computer Lab,101,64,63.37,,,Theory,No,No,No,Cloudy,No,9
+15-06-2026,Monday,2,09:15:00,10:15:00,Mobile Application Development,F_SSP,3,MCA,B,Computer Lab,101,53,52.48,63.37,0,Theory,No,No,No,Rainy,No,9
+15-06-2026,Monday,3,10:15:00,11:15:00,Software Testing and Quality Assurance,F_DPY,3,MCA,B,Computer Lab,101,51,50.5,52.48,0,Theory,No,No,No,Rainy,No,6
+15-06-2026,Monday,4,11:15:00,12:15:00,Principles of Cloud Management and Security,F_KSD,3,MCA,B,Computer Lab,101,51,50.5,50.5,0,Theory,No,No,No,Sunny,No,7
+15-06-2026,Monday,5,13:30:00,15:30:00,Innovation and Entrepreneurship Development,F_JSP,3,MCA,B,Computer Lab,101,54,53.47,50.5,1.25,Theory,No,No,No,Rainy,No,12
+16-06-2026,Tuesday,1,08:30:00,09:15:00,Mobile Application Development,F_SSP,3,MCA,A,Computer Lab,103,72,69.9,,,Theory,No,No,Before,Sunny,No,9
+16-06-2026,Tuesday,2,09:15:00,10:15:00,Mobile Application Development,F_SSP,3,MCA,A,Computer Lab,103,75,72.82,69.9,0,Theory,No,No,Before,Sunny,No,9
+16-06-2026,Tuesday,3,10:15:00,11:15:00,Data Science & Machine Learning,F_SP,3,MCA,A,Computer Lab,103,66,64.08,72.82,0,Theory,No,No,Before,Cloudy,No,8
+16-06-2026,Tuesday,4,11:15:00,12:15:00,Software Testing and Quality Assurance,F_DPY,3,MCA,A,Computer Lab,103,80,77.67,64.08,0,Theory,No,No,Before,Cloudy,No,6
+16-06-2026,Tuesday,5,13:30:00,15:30:00,Industry Readiness Program,F_Visiting,3,MCA,A,Computer Lab,103,75,72.82,77.67,1.25,Theory,No,No,Before,Sunny,No,4
+16-06-2026,Tuesday,1,08:30:00,09:15:00,Mobile Application Development,F_SSP,3,MCA,B,Computer Lab,101,64,63.37,,,Theory,No,Yes,Before,Cloudy,No,9
+16-06-2026,Tuesday,2,09:15:00,10:15:00,Mobile Application Development,F_SSP,3,MCA,B,Computer Lab,101,81,80.2,63.37,0,Theory,No,No,Before,Sunny,No,9
+16-06-2026,Tuesday,3,10:15:00,11:15:00,Data Science & Machine Learning,F_SP,3,MCA,B,Computer Lab,101,69,68.32,80.2,0,Theory,No,No,Before,Cloudy,No,8
+16-06-2026,Tuesday,4,11:15:00,12:15:00,Software Testing and Quality Assurance,F_DPY,3,MCA,B,Computer Lab,101,56,55.45,68.32,0,Theory,No,No,Before,Rainy,No,6
+16-06-2026,Tuesday,5,13:30:00,15:30:00,Industry Readiness Program,F_Visiting,3,MCA,B,Computer Lab,101,69,68.32,55.45,1.25,Theory,No,No,Before,Sunny,No,4
+17-06-2026,Wednesday,1,08:30:00,09:15:00,Mobile Application Development,F_SSP,3,MCA,A,Computer Lab,103,61,59.22,,,Theory,No,No,Before,Rainy,No,9
+17-06-2026,Wednesday,2,09:15:00,10:15:00,Mobile Application Development,F_SSP,3,MCA,A,Computer Lab,103,80,77.67,59.22,0,Theory,No,No,Before,Cloudy,No,9
+17-06-2026,Wednesday,3,10:15:00,11:15:00,Data Science & Machine Learning,F_SP,3,MCA,A,Computer Lab,103,53,51.46,77.67,0,Theory,No,No,Before,Rainy,No,8
+17-06-2026,Wednesday,4,11:15:00,12:15:00,Principles of Cloud Management and Security,F_KSD,3,MCA,A,Computer Lab,103,90,87.38,51.46,0,Theory,No,No,Before,Sunny,No,7
+17-06-2026,Wednesday,5,13:30:00,15:30:00,Software Testing and Quality Assurance,F_DPY,3,MCA,A,Computer Lab,103,59,57.28,87.38,1.25,Practical,No,No,Before,Sunny,No,6
+17-06-2026,Wednesday,1,08:30:00,09:15:00,Mobile Application Development,F_SSP,3,MCA,B,Computer Lab,101,21,20.79,,,Theory,No,Yes,Before,Rainy,No,9
+17-06-2026,Wednesday,2,09:15:00,10:15:00,Mobile Application Development,F_SSP,3,MCA,B,Computer Lab,101,68,67.33,20.79,0,Theory,No,Yes,Before,Cloudy,No,9
+17-06-2026,Wednesday,3,10:15:00,11:15:00,Data Science & Machine Learning,F_SP,3,MCA,B,Computer Lab,101,82,81.19,67.33,0,Theory,No,No,Before,Rainy,No,8
+17-06-2026,Wednesday,4,11:15:00,12:15:00,Principles of Cloud Management and Security,F_KSD,3,MCA,B,Computer Lab,101,74,73.27,81.19,0,Theory,No,No,Before,Cloudy,No,7
+17-06-2026,Wednesday,5,13:30:00,15:30:00,Software Testing and Quality Assurance,F_DPY,3,MCA,B,Computer Lab,101,56,55.45,73.27,1.25,Practical,No,No,Before,Rainy,No,6
+18-06-2026,Thursday,1,08:30:00,09:15:00,Mobile Application Development,F_SSP,3,MCA,A,Computer Lab,103,72,69.9,,,Practical,No,No,No,Rainy,No,9
+18-06-2026,Thursday,2,09:15:00,10:15:00,Mobile Application Development,F_SSP,3,MCA,A,Computer Lab,103,81,78.64,69.9,0,Practical,No,No,No,Rainy,No,9
+18-06-2026,Thursday,3,10:15:00,11:15:00,Mini Project,F_RSZ,3,MCA,A,Computer Lab,103,92,89.32,78.64,0,Practical,No,No,No,Cloudy,No,15
+18-06-2026,Thursday,4,11:15:00,12:15:00,Mini Project,F_RSZ,3,MCA,A,Computer Lab,103,81,78.64,89.32,0,Practical,No,No,No,Rainy,No,15
+18-06-2026,Thursday,1,08:30:00,09:15:00,Mobile Application Development,F_SSP,3,MCA,B,Computer Lab,101,78,77.23,,,Practical,No,No,No,Rainy,No,9
+18-06-2026,Thursday,2,09:15:00,10:15:00,Mobile Application Development,F_SSP,3,MCA,B,Computer Lab,101,82,81.19,77.23,0,Practical,No,No,No,Rainy,No,9
+18-06-2026,Thursday,3,10:15:00,11:15:00,Mini Project,F_RSZ,3,MCA,B,Computer Lab,101,97,96.04,81.19,0,Practical,No,No,No,Sunny,No,15
+18-06-2026,Thursday,4,11:15:00,12:15:00,Mini Project,F_RSZ,3,MCA,B,Computer Lab,101,92,91.09,96.04,0,Practical,No,No,No,Cloudy,No,15
+19-06-2026,Friday,1,08:30:00,09:15:00,Mobile Application Development,F_SSP,3,MCA,A,Computer Lab,103,64,62.14,,,Theory,No,No,No,Rainy,No,9
+19-06-2026,Friday,2,09:15:00,10:15:00,Mobile Application Development,F_SSP,3,MCA,A,Computer Lab,103,81,78.64,62.14,0,Theory,No,No,No,Sunny,No,9
+19-06-2026,Friday,3,10:15:00,11:15:00,Innovation and Entrepreneurship Development,F_JSP,3,MCA,A,Computer Lab,103,62,60.19,78.64,0,Theory,No,No,No,Cloudy,Yes,12
+19-06-2026,Friday,4,11:15:00,12:15:00,Innovation and Entrepreneurship Development,F_JSP,3,MCA,A,Computer Lab,103,74,71.84,60.19,0,Theory,No,No,No,Rainy,No,12
+19-06-2026,Friday,5,13:30:00,15:30:00,STQA Practical,F_DPY,3,MCA,A,Computer Lab,103,61,59.22,71.84,1.25,Practical,No,No,No,Cloudy,No,6
+19-06-2026,Friday,1,08:30:00,09:15:00,Mobile Application Development,F_SSP,3,MCA,B,Computer Lab,101,66,65.35,,,Theory,No,No,No,Cloudy,No,9
+19-06-2026,Friday,2,09:15:00,10:15:00,Mobile Application Development,F_SSP,3,MCA,B,Computer Lab,101,88,87.13,65.35,0,Theory,No,No,No,Sunny,No,9
+19-06-2026,Friday,3,10:15:00,11:15:00,Innovation and Entrepreneurship Development,F_JSP,3,MCA,B,Computer Lab,101,98,97.03,87.13,0,Theory,No,No,No,Sunny,No,12
+19-06-2026,Friday,4,11:15:00,12:15:00,Innovation and Entrepreneurship Development,F_JSP,3,MCA,B,Computer Lab,101,67,66.34,97.03,0,Theory,No,No,No,Rainy,No,12
+19-06-2026,Friday,5,13:30:00,15:30:00,STQA Practical,F_DPY,3,MCA,B,Computer Lab,101,61,60.4,66.34,1.25,Practical,No,No,No,Sunny,Yes,6
+20-06-2026,Saturday,1,08:30:00,09:15:00,Mobile Application Development,F_SSP,3,MCA,A,Computer Lab,103,82,79.61,,,Theory,No,No,No,Cloudy,No,9
+20-06-2026,Saturday,2,09:15:00,10:15:00,Mobile Application Development,F_SSP,3,MCA,A,Computer Lab,103,76,73.79,79.61,0,Theory,No,No,No,Rainy,No,9
+20-06-2026,Saturday,3,10:15:00,11:15:00,Principles of Cloud Management and Security,F_KSD,3,MCA,A,Computer Lab,103,86,83.5,73.79,0,Theory,No,No,No,Cloudy,No,7
+20-06-2026,Saturday,4,11:15:00,12:15:00,Data Science & Machine Learning,F_SP,3,MCA,A,Computer Lab,103,83,80.58,83.5,0,Theory,No,No,No,Cloudy,No,8
+20-06-2026,Saturday,5,13:30:00,15:30:00,DS & ML Practical,F_MLK,3,MCA,A,Computer Lab,103,66,64.08,80.58,1.25,Practical,No,No,No,Rainy,No,11
+20-06-2026,Saturday,1,08:30:00,09:15:00,Mobile Application Development,F_SSP,3,MCA,B,Computer Lab,101,87,86.14,,,Theory,No,No,No,Sunny,No,9
+20-06-2026,Saturday,2,09:15:00,10:15:00,Mobile Application Development,F_SSP,3,MCA,B,Computer Lab,101,71,70.3,86.14,0,Theory,No,No,No,Sunny,No,9
+20-06-2026,Saturday,3,10:15:00,11:15:00,Principles of Cloud Management and Security,F_KSD,3,MCA,B,Computer Lab,101,69,68.32,70.3,0,Theory,No,No,No,Sunny,No,7
+20-06-2026,Saturday,4,11:15:00,12:15:00,Data Science & Machine Learning,F_SP,3,MCA,B,Computer Lab,101,92,91.09,68.32,0,Theory,No,No,No,Cloudy,No,8
+20-06-2026,Saturday,5,13:30:00,15:30:00,DS & ML Practical,F_MLK,3,MCA,B,Computer Lab,101,86,85.15,91.09,1.25,Practical,No,No,No,Sunny,No,11
+22-06-2026,Monday,1,08:30:00,09:15:00,Mobile Application Development,F_SSP,3,MCA,A,Computer Lab,103,71,68.93,,,Theory,No,No,No,Sunny,No,9
+22-06-2026,Monday,2,09:15:00,10:15:00,Mobile Application Development,F_SSP,3,MCA,A,Computer Lab,103,63,61.17,68.93,0,Theory,No,No,No,Rainy,No,9
+22-06-2026,Monday,3,10:15:00,11:15:00,Software Testing and Quality Assurance,F_DPY,3,MCA,A,Computer Lab,103,71,68.93,61.17,0,Theory,No,Yes,No,Cloudy,No,6
+22-06-2026,Monday,4,11:15:00,12:15:00,Principles of Cloud Management and Security,F_KSD,3,MCA,A,Computer Lab,103,68,66.02,68.93,0,Theory,No,No,No,Cloudy,No,7
+22-06-2026,Monday,5,13:30:00,15:30:00,Innovation and Entrepreneurship Development,F_JSP,3,MCA,A,Computer Lab,103,69,66.99,66.02,1.25,Theory,No,Yes,No,Sunny,No,12
+22-06-2026,Monday,1,08:30:00,09:15:00,Mobile Application Development,F_SSP,3,MCA,B,Computer Lab,101,67,66.34,,,Theory,No,No,No,Sunny,No,9
+22-06-2026,Monday,2,09:15:00,10:15:00,Mobile Application Development,F_SSP,3,MCA,B,Computer Lab,101,64,63.37,66.34,0,Theory,No,No,No,Cloudy,No,9
+22-06-2026,Monday,3,10:15:00,11:15:00,Software Testing and Quality Assurance,F_DPY,3,MCA,B,Computer Lab,101,57,56.44,63.37,0,Theory,No,No,No,Rainy,No,6
+22-06-2026,Monday,4,11:15:00,12:15:00,Principles of Cloud Management and Security,F_KSD,3,MCA,B,Computer Lab,101,63,62.38,56.44,0,Theory,No,No,No,Rainy,No,7
+22-06-2026,Monday,5,13:30:00,15:30:00,Innovation and Entrepreneurship Development,F_JSP,3,MCA,B,Computer Lab,101,53,52.48,62.38,1.25,Theory,No,No,No,Rainy,No,12
+23-06-2026,Tuesday,1,08:30:00,09:15:00,Mobile Application Development,F_SSP,3,MCA,A,Computer Lab,103,81,78.64,,,Theory,No,No,No,Cloudy,No,9
+23-06-2026,Tuesday,2,09:15:00,10:15:00,Mobile Application Development,F_SSP,3,MCA,A,Computer Lab,103,90,87.38,78.64,0,Theory,No,No,No,Sunny,No,9
+23-06-2026,Tuesday,3,10:15:00,11:15:00,Data Science & Machine Learning,F_SP,3,MCA,A,Computer Lab,103,90,87.38,87.38,0,Theory,No,No,No,Sunny,No,8
+23-06-2026,Tuesday,4,11:15:00,12:15:00,Software Testing and Quality Assurance,F_DPY,3,MCA,A,Computer Lab,103,76,73.79,87.38,0,Theory,No,No,No,Rainy,No,6
+23-06-2026,Tuesday,5,13:30:00,15:30:00,Industry Readiness Program,F_Visiting,3,MCA,A,Computer Lab,103,80,77.67,73.79,1.25,Theory,No,No,No,Cloudy,No,4
+23-06-2026,Tuesday,1,08:30:00,09:15:00,Mobile Application Development,F_SSP,3,MCA,B,Computer Lab,101,68,67.33,,,Theory,No,No,No,Rainy,No,9
+23-06-2026,Tuesday,2,09:15:00,10:15:00,Mobile Application Development,F_SSP,3,MCA,B,Computer Lab,101,88,87.13,67.33,0,Theory,No,No,No,Sunny,No,9
+23-06-2026,Tuesday,3,10:15:00,11:15:00,Data Science & Machine Learning,F_SP,3,MCA,B,Computer Lab,101,65,64.36,87.13,0,Theory,No,No,No,Cloudy,No,8
+23-06-2026,Tuesday,4,11:15:00,12:15:00,Software Testing and Quality Assurance,F_DPY,3,MCA,B,Computer Lab,101,87,86.14,64.36,0,Theory,No,No,No,Sunny,No,6
+23-06-2026,Tuesday,5,13:30:00,15:30:00,Industry Readiness Program,F_Visiting,3,MCA,B,Computer Lab,101,82,81.19,86.14,1.25,Theory,No,No,No,Sunny,No,4
+24-06-2026,Wednesday,1,08:30:00,09:15:00,Mobile Application Development,F_SSP,3,MCA,A,Computer Lab,103,68,66.02,,,Theory,No,No,No,Rainy,No,9
+24-06-2026,Wednesday,2,09:15:00,10:15:00,Mobile Application Development,F_SSP,3,MCA,A,Computer Lab,103,88,85.44,66.02,0,Theory,No,No,No,Cloudy,No,9
+24-06-2026,Wednesday,3,10:15:00,11:15:00,Data Science & Machine Learning,F_SP,3,MCA,A,Computer Lab,103,88,85.44,85.44,0,Theory,No,No,No,Cloudy,No,8
+24-06-2026,Wednesday,4,11:15:00,12:15:00,Principles of Cloud Management and Security,F_KSD,3,MCA,A,Computer Lab,103,91,88.35,85.44,0,Theory,No,No,No,Cloudy,No,7
+24-06-2026,Wednesday,5,13:30:00,15:30:00,Software Testing and Quality Assurance,F_DPY,3,MCA,A,Computer Lab,103,96,93.2,88.35,1.25,Practical,No,No,No,Sunny,No,6
+24-06-2026,Wednesday,1,08:30:00,09:15:00,Mobile Application Development,F_SSP,3,MCA,B,Computer Lab,101,75,74.26,,,Theory,No,No,No,Sunny,No,9
+24-06-2026,Wednesday,2,09:15:00,10:15:00,Mobile Application Development,F_SSP,3,MCA,B,Computer Lab,101,78,77.23,74.26,0,Theory,No,Yes,No,Rainy,No,9
+24-06-2026,Wednesday,3,10:15:00,11:15:00,Data Science & Machine Learning,F_SP,3,MCA,B,Computer Lab,101,83,82.18,77.23,0,Theory,No,No,No,Rainy,No,8
+24-06-2026,Wednesday,4,11:15:00,12:15:00,Principles of Cloud Management and Security,F_KSD,3,MCA,B,Computer Lab,101,81,80.2,82.18,0,Theory,No,No,No,Cloudy,No,7
+24-06-2026,Wednesday,5,13:30:00,15:30:00,Software Testing and Quality Assurance,F_DPY,3,MCA,B,Computer Lab,101,87,86.14,80.2,1.25,Practical,No,No,No,Rainy,No,6
+25-06-2026,Thursday,1,08:30:00,09:15:00,Mobile Application Development,F_SSP,3,MCA,A,Computer Lab,103,84,81.55,,,Practical,No,Yes,No,Sunny,No,9
+25-06-2026,Thursday,2,09:15:00,10:15:00,Mobile Application Development,F_SSP,3,MCA,A,Computer Lab,103,69,66.99,81.55,0,Practical,No,No,No,Cloudy,No,9
+25-06-2026,Thursday,3,10:15:00,11:15:00,Mini Project,F_RSZ,3,MCA,A,Computer Lab,103,103,100,66.99,0,Practical,No,No,No,Cloudy,No,15
+25-06-2026,Thursday,4,11:15:00,12:15:00,Mini Project,F_RSZ,3,MCA,A,Computer Lab,103,91,88.35,100,0,Practical,No,No,No,Cloudy,No,15
+25-06-2026,Thursday,1,08:30:00,09:15:00,Mobile Application Development,F_SSP,3,MCA,B,Computer Lab,101,65,64.36,,,Practical,No,No,No,Rainy,No,9
+25-06-2026,Thursday,2,09:15:00,10:15:00,Mobile Application Development,F_SSP,3,MCA,B,Computer Lab,101,75,74.26,64.36,0,Practical,No,No,No,Rainy,No,9
+25-06-2026,Thursday,3,10:15:00,11:15:00,Mini Project,F_RSZ,3,MCA,B,Computer Lab,101,98,97.03,74.26,0,Practical,No,No,No,Rainy,No,15
+25-06-2026,Thursday,4,11:15:00,12:15:00,Mini Project,F_RSZ,3,MCA,B,Computer Lab,101,62,61.39,97.03,0,Practical,No,No,No,Rainy,Yes,15
+26-06-2026,Friday,1,08:30:00,09:15:00,Mobile Application Development,F_SSP,3,MCA,A,Computer Lab,103,84,81.55,,,Theory,Yes,No,No,Cloudy,No,9
+26-06-2026,Friday,2,09:15:00,10:15:00,Mobile Application Development,F_SSP,3,MCA,A,Computer Lab,103,67,65.05,81.55,0,Theory,Yes,Yes,No,Cloudy,No,9
+26-06-2026,Friday,3,10:15:00,11:15:00,Innovation and Entrepreneurship Development,F_JSP,3,MCA,A,Computer Lab,103,90,87.38,65.05,0,Theory,Yes,No,No,Sunny,No,12
+26-06-2026,Friday,4,11:15:00,12:15:00,Innovation and Entrepreneurship Development,F_JSP,3,MCA,A,Computer Lab,103,83,80.58,87.38,0,Theory,Yes,No,No,Cloudy,No,12
+26-06-2026,Friday,5,13:30:00,15:30:00,STQA Practical,F_DPY,3,MCA,A,Computer Lab,103,91,88.35,80.58,1.25,Practical,Yes,No,No,Sunny,No,6
+26-06-2026,Friday,1,08:30:00,09:15:00,Mobile Application Development,F_SSP,3,MCA,B,Computer Lab,101,82,81.19,,,Theory,Yes,No,No,Sunny,No,9
+26-06-2026,Friday,2,09:15:00,10:15:00,Mobile Application Development,F_SSP,3,MCA,B,Computer Lab,101,84,83.17,81.19,0,Theory,Yes,No,No,Cloudy,No,9
+26-06-2026,Friday,3,10:15:00,11:15:00,Innovation and Entrepreneurship Development,F_JSP,3,MCA,B,Computer Lab,101,71,70.3,83.17,0,Theory,Yes,No,No,Rainy,No,12
+26-06-2026,Friday,4,11:15:00,12:15:00,Innovation and Entrepreneurship Development,F_JSP,3,MCA,B,Computer Lab,101,96,95.05,70.3,0,Theory,Yes,No,No,Sunny,No,12
+26-06-2026,Friday,5,13:30:00,15:30:00,STQA Practical,F_DPY,3,MCA,B,Computer Lab,101,77,76.24,95.05,1.25,Practical,Yes,No,No,Rainy,No,6
+27-06-2026,Saturday,1,08:30:00,09:15:00,Mobile Application Development,F_SSP,3,MCA,A,Computer Lab,103,85,82.52,,,Theory,Yes,No,No,Cloudy,No,9
+27-06-2026,Saturday,2,09:15:00,10:15:00,Mobile Application Development,F_SSP,3,MCA,A,Computer Lab,103,98,95.15,82.52,0,Theory,Yes,No,No,Rainy,No,9
+27-06-2026,Saturday,3,10:15:00,11:15:00,Principles of Cloud Management and Security,F_KSD,3,MCA,A,Computer Lab,103,89,86.41,95.15,0,Theory,Yes,No,No,Cloudy,No,7
+27-06-2026,Saturday,4,11:15:00,12:15:00,Data Science & Machine Learning,F_SP,3,MCA,A,Computer Lab,103,82,79.61,86.41,0,Theory,Yes,No,No,Sunny,Yes,8
+27-06-2026,Saturday,5,13:30:00,15:30:00,DS & ML Practical,F_MLK,3,MCA,A,Computer Lab,103,92,89.32,79.61,1.25,Practical,Yes,No,No,Cloudy,No,11
+27-06-2026,Saturday,1,08:30:00,09:15:00,Mobile Application Development,F_SSP,3,MCA,B,Computer Lab,101,81,80.2,,,Theory,Yes,No,No,Cloudy,No,9
+27-06-2026,Saturday,2,09:15:00,10:15:00,Mobile Application Development,F_SSP,3,MCA,B,Computer Lab,101,63,62.38,80.2,0,Theory,Yes,No,No,Cloudy,Yes,9
+27-06-2026,Saturday,3,10:15:00,11:15:00,Principles of Cloud Management and Security,F_KSD,3,MCA,B,Computer Lab,101,100,99.01,62.38,0,Theory,Yes,Yes,No,Rainy,No,7
+27-06-2026,Saturday,4,11:15:00,12:15:00,Data Science & Machine Learning,F_SP,3,MCA,B,Computer Lab,101,94,93.07,99.01,0,Theory,Yes,No,No,Sunny,No,8
+27-06-2026,Saturday,5,13:30:00,15:30:00,DS & ML Practical,F_MLK,3,MCA,B,Computer Lab,101,73,72.28,93.07,1.25,Practical,Yes,No,No,Sunny,Yes,11
+29-06-2026,Monday,1,08:30:00,09:15:00,Mobile Application Development,F_SSP,3,MCA,A,Computer Lab,103,42,40.78,,,Theory,Yes,No,No,Cloudy,No,9
+29-06-2026,Monday,2,09:15:00,10:15:00,Mobile Application Development,F_SSP,3,MCA,A,Computer Lab,103,82,79.61,40.78,0,Theory,Yes,No,No,Sunny,No,9
+29-06-2026,Monday,3,10:15:00,11:15:00,Software Testing and Quality Assurance,F_DPY,3,MCA,A,Computer Lab,103,74,71.84,79.61,0,Theory,Yes,No,No,Rainy,No,6
+29-06-2026,Monday,4,11:15:00,12:15:00,Principles of Cloud Management and Security,F_KSD,3,MCA,A,Computer Lab,103,68,66.02,71.84,0,Theory,Yes,No,No,Rainy,No,7
+29-06-2026,Monday,5,13:30:00,15:30:00,Innovation and Entrepreneurship Development,F_JSP,3,MCA,A,Computer Lab,103,85,82.52,66.02,1.25,Theory,Yes,No,No,Sunny,No,12
+29-06-2026,Monday,1,08:30:00,09:15:00,Mobile Application Development,F_SSP,3,MCA,B,Computer Lab,101,76,75.25,,,Theory,Yes,No,No,Cloudy,No,9
+29-06-2026,Monday,2,09:15:00,10:15:00,Mobile Application Development,F_SSP,3,MCA,B,Computer Lab,101,68,67.33,75.25,0,Theory,Yes,Yes,No,Cloudy,No,9
+29-06-2026,Monday,3,10:15:00,11:15:00,Software Testing and Quality Assurance,F_DPY,3,MCA,B,Computer Lab,101,82,81.19,67.33,0,Theory,Yes,No,No,Sunny,No,6
+29-06-2026,Monday,4,11:15:00,12:15:00,Principles of Cloud Management and Security,F_KSD,3,MCA,B,Computer Lab,101,85,84.16,81.19,0,Theory,Yes,No,No,Sunny,No,7
+29-06-2026,Monday,5,13:30:00,15:30:00,Innovation and Entrepreneurship Development,F_JSP,3,MCA,B,Computer Lab,101,76,75.25,84.16,1.25,Theory,Yes,No,No,Cloudy,No,12
+30-06-2026,Tuesday,1,08:30:00,09:15:00,Mobile Application Development,F_SSP,3,MCA,A,Computer Lab,103,82,79.61,,,Theory,Yes,Yes,No,Cloudy,No,9
+30-06-2026,Tuesday,2,09:15:00,10:15:00,Mobile Application Development,F_SSP,3,MCA,A,Computer Lab,103,90,87.38,79.61,0,Theory,Yes,No,No,Rainy,No,9
+30-06-2026,Tuesday,3,10:15:00,11:15:00,Data Science & Machine Learning,F_SP,3,MCA,A,Computer Lab,103,97,94.17,87.38,0,Theory,Yes,No,No,Sunny,No,8
+30-06-2026,Tuesday,4,11:15:00,12:15:00,Software Testing and Quality Assurance,F_DPY,3,MCA,A,Computer Lab,103,91,88.35,94.17,0,Theory,Yes,No,No,Cloudy,No,6
+30-06-2026,Tuesday,5,13:30:00,15:30:00,Industry Readiness Program,F_Visiting,3,MCA,A,Computer Lab,103,87,84.47,88.35,1.25,Theory,Yes,No,No,Cloudy,No,4
+30-06-2026,Tuesday,1,08:30:00,09:15:00,Mobile Application Development,F_SSP,3,MCA,B,Computer Lab,101,83,82.18,,,Theory,Yes,No,No,Cloudy,No,9
+30-06-2026,Tuesday,2,09:15:00,10:15:00,Mobile Application Development,F_SSP,3,MCA,B,Computer Lab,101,84,83.17,82.18,0,Theory,Yes,No,No,Cloudy,No,9
+30-06-2026,Tuesday,3,10:15:00,11:15:00,Data Science & Machine Learning,F_SP,3,MCA,B,Computer Lab,101,101,100,83.17,0,Theory,Yes,No,No,Sunny,No,8
+30-06-2026,Tuesday,4,11:15:00,12:15:00,Software Testing and Quality Assurance,F_DPY,3,MCA,B,Computer Lab,101,81,80.2,100,0,Theory,Yes,No,No,Rainy,No,6
+30-06-2026,Tuesday,5,13:30:00,15:30:00,Industry Readiness Program,F_Visiting,3,MCA,B,Computer Lab,101,79,78.22,80.2,1.25,Theory,Yes,No,No,Rainy,No,4
+01-07-2026,Wednesday,1,08:30:00,09:15:00,Mobile Application Development,F_SSP,3,MCA,A,Computer Lab,103,62,60.19,,,Theory,Yes,No,After,Rainy,No,9
+01-07-2026,Wednesday,2,09:15:00,10:15:00,Mobile Application Development,F_SSP,3,MCA,A,Computer Lab,103,69,66.99,60.19,0,Theory,Yes,No,After,Sunny,No,9
+01-07-2026,Wednesday,3,10:15:00,11:15:00,Data Science & Machine Learning,F_SP,3,MCA,A,Computer Lab,103,78,75.73,66.99,0,Theory,Yes,No,After,Cloudy,No,8
+01-07-2026,Wednesday,4,11:15:00,12:15:00,Principles of Cloud Management and Security,F_KSD,3,MCA,A,Computer Lab,103,60,58.25,75.73,0,Theory,Yes,No,After,Rainy,No,7
+01-07-2026,Wednesday,5,13:30:00,15:30:00,Software Testing and Quality Assurance,F_DPY,3,MCA,A,Computer Lab,103,73,70.87,58.25,1.25,Practical,Yes,No,After,Cloudy,No,6
+01-07-2026,Wednesday,1,08:30:00,09:15:00,Mobile Application Development,F_SSP,3,MCA,B,Computer Lab,101,72,71.29,,,Theory,Yes,No,After,Sunny,No,9
+01-07-2026,Wednesday,2,09:15:00,10:15:00,Mobile Application Development,F_SSP,3,MCA,B,Computer Lab,101,71,70.3,71.29,0,Theory,Yes,No,After,Sunny,No,9
+01-07-2026,Wednesday,3,10:15:00,11:15:00,Data Science & Machine Learning,F_SP,3,MCA,B,Computer Lab,101,58,57.43,70.3,0,Theory,Yes,No,After,Rainy,No,8
+01-07-2026,Wednesday,4,11:15:00,12:15:00,Principles of Cloud Management and Security,F_KSD,3,MCA,B,Computer Lab,101,76,75.25,57.43,0,Theory,Yes,No,After,Sunny,No,7
+01-07-2026,Wednesday,5,13:30:00,15:30:00,Software Testing and Quality Assurance,F_DPY,3,MCA,B,Computer Lab,101,59,58.42,75.25,1.25,Practical,Yes,No,After,Rainy,No,6
+02-07-2026,Thursday,1,08:30:00,09:15:00,Mobile Application Development,F_SSP,3,MCA,A,Computer Lab,103,70,67.96,,,Practical,No,No,No,Rainy,No,9
+02-07-2026,Thursday,2,09:15:00,10:15:00,Mobile Application Development,F_SSP,3,MCA,A,Computer Lab,103,92,89.32,67.96,0,Practical,No,No,No,Cloudy,No,9
+02-07-2026,Thursday,3,10:15:00,11:15:00,Mini Project,F_RSZ,3,MCA,A,Computer Lab,103,85,82.52,89.32,0,Practical,No,No,No,Rainy,No,15
+02-07-2026,Thursday,4,11:15:00,12:15:00,Mini Project,F_RSZ,3,MCA,A,Computer Lab,103,98,95.15,82.52,0,Practical,No,No,No,Cloudy,No,15
+02-07-2026,Thursday,1,08:30:00,09:15:00,Mobile Application Development,F_SSP,3,MCA,B,Computer Lab,101,75,74.26,,,Practical,No,No,No,Rainy,No,9
+02-07-2026,Thursday,2,09:15:00,10:15:00,Mobile Application Development,F_SSP,3,MCA,B,Computer Lab,101,74,73.27,74.26,0,Practical,No,No,No,Rainy,No,9
+02-07-2026,Thursday,3,10:15:00,11:15:00,Mini Project,F_RSZ,3,MCA,B,Computer Lab,101,79,78.22,73.27,0,Practical,No,No,No,Sunny,No,15
+02-07-2026,Thursday,4,11:15:00,12:15:00,Mini Project,F_RSZ,3,MCA,B,Computer Lab,101,99,98.02,78.22,0,Practical,No,No,No,Sunny,No,15
+03-07-2026,Friday,1,08:30:00,09:15:00,Mobile Application Development,F_SSP,3,MCA,A,Computer Lab,103,76,73.79,,,Theory,No,No,No,Cloudy,No,9
+03-07-2026,Friday,2,09:15:00,10:15:00,Mobile Application Development,F_SSP,3,MCA,A,Computer Lab,103,86,83.5,73.79,0,Theory,No,No,No,Sunny,No,9
+03-07-2026,Friday,3,10:15:00,11:15:00,Innovation and Entrepreneurship Development,F_JSP,3,MCA,A,Computer Lab,103,53,51.46,83.5,0,Theory,No,No,No,Sunny,Yes,12
+03-07-2026,Friday,4,11:15:00,12:15:00,Innovation and Entrepreneurship Development,F_JSP,3,MCA,A,Computer Lab,103,82,79.61,51.46,0,Theory,No,No,No,Rainy,No,12
+03-07-2026,Friday,5,13:30:00,15:30:00,STQA Practical,F_DPY,3,MCA,A,Computer Lab,103,60,58.25,79.61,1.25,Practical,No,No,No,Rainy,No,6
+03-07-2026,Friday,1,08:30:00,09:15:00,Mobile Application Development,F_SSP,3,MCA,B,Computer Lab,101,73,72.28,,,Theory,No,No,No,Cloudy,No,9
+03-07-2026,Friday,2,09:15:00,10:15:00,Mobile Application Development,F_SSP,3,MCA,B,Computer Lab,101,78,77.23,72.28,0,Theory,No,No,No,Cloudy,No,9
+03-07-2026,Friday,3,10:15:00,11:15:00,Innovation and Entrepreneurship Development,F_JSP,3,MCA,B,Computer Lab,101,78,77.23,77.23,0,Theory,No,No,No,Cloudy,No,12
+03-07-2026,Friday,4,11:15:00,12:15:00,Innovation and Entrepreneurship Development,F_JSP,3,MCA,B,Computer Lab,101,74,73.27,77.23,0,Theory,No,No,No,Cloudy,No,12
+03-07-2026,Friday,5,13:30:00,15:30:00,STQA Practical,F_DPY,3,MCA,B,Computer Lab,101,66,65.35,73.27,1.25,Practical,No,No,No,Cloudy,No,6
+04-07-2026,Saturday,1,08:30:00,09:15:00,Mobile Application Development,F_SSP,3,MCA,A,Computer Lab,103,65,63.11,,,Theory,No,Yes,No,Rainy,No,9
+04-07-2026,Saturday,2,09:15:00,10:15:00,Mobile Application Development,F_SSP,3,MCA,A,Computer Lab,103,75,72.82,63.11,0,Theory,No,No,No,Rainy,No,9
+04-07-2026,Saturday,3,10:15:00,11:15:00,Principles of Cloud Management and Security,F_KSD,3,MCA,A,Computer Lab,103,91,88.35,72.82,0,Theory,No,No,No,Cloudy,No,7
+04-07-2026,Saturday,4,11:15:00,12:15:00,Data Science & Machine Learning,F_SP,3,MCA,A,Computer Lab,103,91,88.35,88.35,0,Theory,No,No,No,Sunny,No,8
+04-07-2026,Saturday,5,13:30:00,15:30:00,DS & ML Practical,F_MLK,3,MCA,A,Computer Lab,103,94,91.26,88.35,1.25,Practical,No,No,No,Cloudy,No,11
+04-07-2026,Saturday,1,08:30:00,09:15:00,Mobile Application Development,F_SSP,3,MCA,B,Computer Lab,101,100,99.01,,,Theory,No,No,No,Rainy,No,9
+04-07-2026,Saturday,2,09:15:00,10:15:00,Mobile Application Development,F_SSP,3,MCA,B,Computer Lab,101,72,71.29,99.01,0,Theory,No,No,No,Rainy,No,9
+04-07-2026,Saturday,3,10:15:00,11:15:00,Principles of Cloud Management and Security,F_KSD,3,MCA,B,Computer Lab,101,85,84.16,71.29,0,Theory,No,No,No,Cloudy,No,7
+04-07-2026,Saturday,4,11:15:00,12:15:00,Data Science & Machine Learning,F_SP,3,MCA,B,Computer Lab,101,94,93.07,84.16,0,Theory,No,No,No,Cloudy,No,8
+04-07-2026,Saturday,5,13:30:00,15:30:00,DS & ML Practical,F_MLK,3,MCA,B,Computer Lab,101,83,82.18,93.07,1.25,Practical,No,No,No,Cloudy,No,11
+06-07-2026,Monday,1,08:30:00,09:15:00,Mobile Application Development,F_SSP,3,MCA,A,Computer Lab,103,63,61.17,,,Theory,No,No,No,Rainy,No,9
+06-07-2026,Monday,2,09:15:00,10:15:00,Mobile Application Development,F_SSP,3,MCA,A,Computer Lab,103,71,68.93,61.17,0,Theory,No,No,No,Rainy,No,9
+06-07-2026,Monday,3,10:15:00,11:15:00,Software Testing and Quality Assurance,F_DPY,3,MCA,A,Computer Lab,103,69,66.99,68.93,0,Theory,No,No,No,Cloudy,No,6
+06-07-2026,Monday,4,11:15:00,12:15:00,Principles of Cloud Management and Security,F_KSD,3,MCA,A,Computer Lab,103,57,55.34,66.99,0,Theory,No,Yes,No,Rainy,No,7
+06-07-2026,Monday,5,13:30:00,15:30:00,Innovation and Entrepreneurship Development,F_JSP,3,MCA,A,Computer Lab,103,59,57.28,55.34,1.25,Theory,No,No,No,Rainy,No,12
+06-07-2026,Monday,1,08:30:00,09:15:00,Mobile Application Development,F_SSP,3,MCA,B,Computer Lab,101,45,44.55,,,Theory,No,No,No,Rainy,No,9
+06-07-2026,Monday,2,09:15:00,10:15:00,Mobile Application Development,F_SSP,3,MCA,B,Computer Lab,101,66,65.35,44.55,0,Theory,No,Yes,No,Rainy,No,9
+06-07-2026,Monday,3,10:15:00,11:15:00,Software Testing and Quality Assurance,F_DPY,3,MCA,B,Computer Lab,101,58,57.43,65.35,0,Theory,No,Yes,No,Sunny,No,6
+06-07-2026,Monday,4,11:15:00,12:15:00,Principles of Cloud Management and Security,F_KSD,3,MCA,B,Computer Lab,101,59,58.42,57.43,0,Theory,No,No,No,Rainy,No,7
+06-07-2026,Monday,5,13:30:00,15:30:00,Innovation and Entrepreneurship Development,F_JSP,3,MCA,B,Computer Lab,101,54,53.47,58.42,1.25,Theory,No,No,No,Rainy,No,12
+07-07-2026,Tuesday,1,08:30:00,09:15:00,Mobile Application Development,F_SSP,3,MCA,A,Computer Lab,103,74,71.84,,,Theory,No,No,After,Sunny,No,9
+07-07-2026,Tuesday,2,09:15:00,10:15:00,Mobile Application Development,F_SSP,3,MCA,A,Computer Lab,103,51,49.51,71.84,0,Theory,No,Yes,After,Rainy,No,9
+07-07-2026,Tuesday,3,10:15:00,11:15:00,Data Science & Machine Learning,F_SP,3,MCA,A,Computer Lab,103,59,57.28,49.51,0,Theory,No,No,After,Cloudy,No,8
+07-07-2026,Tuesday,4,11:15:00,12:15:00,Software Testing and Quality Assurance,F_DPY,3,MCA,A,Computer Lab,103,58,56.31,57.28,0,Theory,No,No,After,Rainy,No,6
+07-07-2026,Tuesday,5,13:30:00,15:30:00,Industry Readiness Program,F_Visiting,3,MCA,A,Computer Lab,103,64,62.14,56.31,1.25,Theory,No,No,After,Sunny,No,4
+07-07-2026,Tuesday,1,08:30:00,09:15:00,Mobile Application Development,F_SSP,3,MCA,B,Computer Lab,101,54,53.47,,,Theory,No,No,After,Rainy,No,9
+07-07-2026,Tuesday,2,09:15:00,10:15:00,Mobile Application Development,F_SSP,3,MCA,B,Computer Lab,101,44,43.56,53.47,0,Theory,No,No,After,Rainy,No,9
+07-07-2026,Tuesday,3,10:15:00,11:15:00,Data Science & Machine Learning,F_SP,3,MCA,B,Computer Lab,101,71,70.3,43.56,0,Theory,No,No,After,Cloudy,No,8
+07-07-2026,Tuesday,4,11:15:00,12:15:00,Software Testing and Quality Assurance,F_DPY,3,MCA,B,Computer Lab,101,74,73.27,70.3,0,Theory,No,No,After,Sunny,No,6
+07-07-2026,Tuesday,5,13:30:00,15:30:00,Industry Readiness Program,F_Visiting,3,MCA,B,Computer Lab,101,43,42.57,73.27,1.25,Theory,No,No,After,Rainy,No,4
+08-07-2026,Wednesday,1,08:30:00,09:15:00,Mobile Application Development,F_SSP,3,MCA,A,Computer Lab,103,75,72.82,,,Theory,No,No,No,Cloudy,No,9
+08-07-2026,Wednesday,2,09:15:00,10:15:00,Mobile Application Development,F_SSP,3,MCA,A,Computer Lab,103,55,53.4,72.82,0,Theory,No,Yes,No,Sunny,No,9
+08-07-2026,Wednesday,3,10:15:00,11:15:00,Data Science & Machine Learning,F_SP,3,MCA,A,Computer Lab,103,68,66.02,53.4,0,Theory,No,Yes,No,Cloudy,Yes,8
+08-07-2026,Wednesday,4,11:15:00,12:15:00,Principles of Cloud Management and Security,F_KSD,3,MCA,A,Computer Lab,103,88,85.44,66.02,0,Theory,No,Yes,No,Cloudy,No,7
+08-07-2026,Wednesday,5,13:30:00,15:30:00,Software Testing and Quality Assurance,F_DPY,3,MCA,A,Computer Lab,103,68,66.02,85.44,1.25,Practical,No,Yes,No,Rainy,No,6
+08-07-2026,Wednesday,1,08:30:00,09:15:00,Mobile Application Development,F_SSP,3,MCA,B,Computer Lab,101,73,72.28,,,Theory,No,No,No,Rainy,No,9
+08-07-2026,Wednesday,2,09:15:00,10:15:00,Mobile Application Development,F_SSP,3,MCA,B,Computer Lab,101,81,80.2,72.28,0,Theory,No,No,No,Rainy,No,9
+08-07-2026,Wednesday,3,10:15:00,11:15:00,Data Science & Machine Learning,F_SP,3,MCA,B,Computer Lab,101,85,84.16,80.2,0,Theory,No,No,No,Cloudy,No,8
+08-07-2026,Wednesday,4,11:15:00,12:15:00,Principles of Cloud Management and Security,F_KSD,3,MCA,B,Computer Lab,101,92,91.09,84.16,0,Theory,No,No,No,Cloudy,No,7
+08-07-2026,Wednesday,5,13:30:00,15:30:00,Software Testing and Quality Assurance,F_DPY,3,MCA,B,Computer Lab,101,53,52.48,91.09,1.25,Practical,No,No,No,Cloudy,No,6
+09-07-2026,Thursday,1,08:30:00,09:15:00,Mobile Application Development,F_SSP,3,MCA,A,Computer Lab,103,47,45.63,,,Practical,No,Yes,No,Cloudy,No,9
+09-07-2026,Thursday,2,09:15:00,10:15:00,Mobile Application Development,F_SSP,3,MCA,A,Computer Lab,103,32,31.07,45.63,0,Practical,No,No,No,Sunny,No,9
+09-07-2026,Thursday,3,10:15:00,11:15:00,Mini Project,F_RSZ,3,MCA,A,Computer Lab,103,101,98.06,31.07,0,Practical,No,No,No,Sunny,No,15
+09-07-2026,Thursday,4,11:15:00,12:15:00,Mini Project,F_RSZ,3,MCA,A,Computer Lab,103,87,84.47,98.06,0,Practical,No,No,No,Sunny,No,15
+09-07-2026,Thursday,1,08:30:00,09:15:00,Mobile Application Development,F_SSP,3,MCA,B,Computer Lab,101,31,30.69,,,Practical,No,No,No,Rainy,No,9
+09-07-2026,Thursday,2,09:15:00,10:15:00,Mobile Application Development,F_SSP,3,MCA,B,Computer Lab,101,64,63.37,30.69,0,Practical,No,No,No,Rainy,No,9
+09-07-2026,Thursday,3,10:15:00,11:15:00,Mini Project,F_RSZ,3,MCA,B,Computer Lab,101,97,96.04,63.37,0,Practical,No,No,No,Cloudy,No,15
+09-07-2026,Thursday,4,11:15:00,12:15:00,Mini Project,F_RSZ,3,MCA,B,Computer Lab,101,95,94.06,96.04,0,Practical,No,Yes,No,Cloudy,No,15
+10-07-2026,Friday,1,08:30:00,09:15:00,Mobile Application Development,F_SSP,3,MCA,A,Computer Lab,103,82,79.61,,,Theory,No,No,No,Cloudy,No,9
+10-07-2026,Friday,2,09:15:00,10:15:00,Mobile Application Development,F_SSP,3,MCA,A,Computer Lab,103,73,70.87,79.61,0,Theory,No,No,No,Sunny,No,9
+10-07-2026,Friday,3,10:15:00,11:15:00,Innovation and Entrepreneurship Development,F_JSP,3,MCA,A,Computer Lab,103,74,71.84,70.87,0,Theory,No,No,No,Rainy,No,12
+10-07-2026,Friday,4,11:15:00,12:15:00,Innovation and Entrepreneurship Development,F_JSP,3,MCA,A,Computer Lab,103,66,64.08,71.84,0,Theory,No,No,No,Rainy,No,12
+10-07-2026,Friday,5,13:30:00,15:30:00,STQA Practical,F_DPY,3,MCA,A,Computer Lab,103,76,73.79,64.08,1.25,Practical,No,No,No,Sunny,No,6
+10-07-2026,Friday,1,08:30:00,09:15:00,Mobile Application Development,F_SSP,3,MCA,B,Computer Lab,101,59,58.42,,,Theory,No,No,No,Rainy,No,9
+10-07-2026,Friday,2,09:15:00,10:15:00,Mobile Application Development,F_SSP,3,MCA,B,Computer Lab,101,61,60.4,58.42,0,Theory,No,No,No,Rainy,No,9
+10-07-2026,Friday,3,10:15:00,11:15:00,Innovation and Entrepreneurship Development,F_JSP,3,MCA,B,Computer Lab,101,98,97.03,60.4,0,Theory,No,No,No,Sunny,No,12
+10-07-2026,Friday,4,11:15:00,12:15:00,Innovation and Entrepreneurship Development,F_JSP,3,MCA,B,Computer Lab,101,63,62.38,97.03,0,Theory,No,No,No,Rainy,No,12
+10-07-2026,Friday,5,13:30:00,15:30:00,STQA Practical,F_DPY,3,MCA,B,Computer Lab,101,62,61.39,62.38,1.25,Practical,No,No,No,Rainy,No,6
+11-07-2026,Saturday,1,08:30:00,09:15:00,Mobile Application Development,F_SSP,3,MCA,A,Computer Lab,103,70,67.96,,,Theory,No,No,No,Rainy,No,9
+11-07-2026,Saturday,2,09:15:00,10:15:00,Mobile Application Development,F_SSP,3,MCA,A,Computer Lab,103,91,88.35,67.96,0,Theory,No,No,No,Sunny,No,9
+11-07-2026,Saturday,3,10:15:00,11:15:00,Principles of Cloud Management and Security,F_KSD,3,MCA,A,Computer Lab,103,58,56.31,88.35,0,Theory,No,No,No,Rainy,No,7
+11-07-2026,Saturday,4,11:15:00,12:15:00,Data Science & Machine Learning,F_SP,3,MCA,A,Computer Lab,103,71,68.93,56.31,0,Theory,No,No,No,Rainy,No,8
+11-07-2026,Saturday,5,13:30:00,15:30:00,DS & ML Practical,F_MLK,3,MCA,A,Computer Lab,103,95,92.23,68.93,1.25,Practical,No,No,No,Sunny,No,11
+11-07-2026,Saturday,1,08:30:00,09:15:00,Mobile Application Development,F_SSP,3,MCA,B,Computer Lab,101,71,70.3,,,Theory,No,No,No,Rainy,No,9
+11-07-2026,Saturday,2,09:15:00,10:15:00,Mobile Application Development,F_SSP,3,MCA,B,Computer Lab,101,79,78.22,70.3,0,Theory,No,No,No,Rainy,No,9
+11-07-2026,Saturday,3,10:15:00,11:15:00,Principles of Cloud Management and Security,F_KSD,3,MCA,B,Computer Lab,101,76,75.25,78.22,0,Theory,No,No,No,Rainy,No,7
+11-07-2026,Saturday,4,11:15:00,12:15:00,Data Science & Machine Learning,F_SP,3,MCA,B,Computer Lab,101,82,81.19,75.25,0,Theory,No,No,No,Rainy,No,8
+11-07-2026,Saturday,5,13:30:00,15:30:00,DS & ML Practical,F_MLK,3,MCA,B,Computer Lab,101,79,78.22,81.19,1.25,Practical,No,No,No,Cloudy,No,11
+13-07-2026,Monday,1,08:30:00,09:15:00,Mobile Application Development,F_SSP,3,MCA,A,Computer Lab,103,71,68.93,,,Theory,No,No,No,Cloudy,No,9
+13-07-2026,Monday,2,09:15:00,10:15:00,Mobile Application Development,F_SSP,3,MCA,A,Computer Lab,103,64,62.14,68.93,0,Theory,No,No,No,Rainy,No,9
+13-07-2026,Monday,3,10:15:00,11:15:00,Software Testing and Quality Assurance,F_DPY,3,MCA,A,Computer Lab,103,77,74.76,62.14,0,Theory,No,No,No,Sunny,No,6
+13-07-2026,Monday,4,11:15:00,12:15:00,Principles of Cloud Management and Security,F_KSD,3,MCA,A,Computer Lab,103,77,74.76,74.76,0,Theory,No,No,No,Sunny,No,7
+13-07-2026,Monday,5,13:30:00,15:30:00,Innovation and Entrepreneurship Development,F_JSP,3,MCA,A,Computer Lab,103,72,69.9,74.76,1.25,Theory,No,No,No,Cloudy,No,12
+13-07-2026,Monday,1,08:30:00,09:15:00,Mobile Application Development,F_SSP,3,MCA,B,Computer Lab,101,57,56.44,,,Theory,No,No,No,Rainy,No,9
+13-07-2026,Monday,2,09:15:00,10:15:00,Mobile Application Development,F_SSP,3,MCA,B,Computer Lab,101,66,65.35,56.44,0,Theory,No,No,No,Sunny,No,9
+13-07-2026,Monday,3,10:15:00,11:15:00,Software Testing and Quality Assurance,F_DPY,3,MCA,B,Computer Lab,101,58,57.43,65.35,0,Theory,No,No,No,Sunny,Yes,6
+13-07-2026,Monday,4,11:15:00,12:15:00,Principles of Cloud Management and Security,F_KSD,3,MCA,B,Computer Lab,101,52,51.49,57.43,0,Theory,No,No,No,Sunny,Yes,7
+13-07-2026,Monday,5,13:30:00,15:30:00,Innovation and Entrepreneurship Development,F_JSP,3,MCA,B,Computer Lab,101,68,67.33,51.49,1.25,Theory,No,Yes,No,Cloudy,No,12
+14-07-2026,Tuesday,1,08:30:00,09:15:00,Mobile Application Development,F_SSP,3,MCA,A,Computer Lab,103,81,78.64,,,Theory,No,No,No,Cloudy,No,9
+14-07-2026,Tuesday,2,09:15:00,10:15:00,Mobile Application Development,F_SSP,3,MCA,A,Computer Lab,103,79,76.7,78.64,0,Theory,No,Yes,No,Sunny,No,9
+14-07-2026,Tuesday,3,10:15:00,11:15:00,Data Science & Machine Learning,F_SP,3,MCA,A,Computer Lab,103,71,68.93,76.7,0,Theory,No,No,No,Rainy,No,8
+14-07-2026,Tuesday,4,11:15:00,12:15:00,Software Testing and Quality Assurance,F_DPY,3,MCA,A,Computer Lab,103,78,75.73,68.93,0,Theory,No,No,No,Rainy,No,6
+14-07-2026,Tuesday,5,13:30:00,15:30:00,Industry Readiness Program,F_Visiting,3,MCA,A,Computer Lab,103,70,67.96,75.73,1.25,Theory,No,Yes,No,Rainy,No,4
+14-07-2026,Tuesday,1,08:30:00,09:15:00,Mobile Application Development,F_SSP,3,MCA,B,Computer Lab,101,59,58.42,,,Theory,No,No,No,Rainy,No,9
+14-07-2026,Tuesday,2,09:15:00,10:15:00,Mobile Application Development,F_SSP,3,MCA,B,Computer Lab,101,81,80.2,58.42,0,Theory,No,No,No,Cloudy,No,9
+14-07-2026,Tuesday,3,10:15:00,11:15:00,Data Science & Machine Learning,F_SP,3,MCA,B,Computer Lab,101,82,81.19,80.2,0,Theory,No,No,No,Rainy,No,8
+14-07-2026,Tuesday,4,11:15:00,12:15:00,Software Testing and Quality Assurance,F_DPY,3,MCA,B,Computer Lab,101,72,71.29,81.19,0,Theory,No,No,No,Rainy,No,6
+14-07-2026,Tuesday,5,13:30:00,15:30:00,Industry Readiness Program,F_Visiting,3,MCA,B,Computer Lab,101,77,76.24,71.29,1.25,Theory,No,No,No,Rainy,No,4
+15-07-2026,Wednesday,1,08:30:00,09:15:00,Mobile Application Development,F_SSP,3,MCA,A,Computer Lab,103,88,85.44,,,Theory,No,No,No,Sunny,No,9
+15-07-2026,Wednesday,2,09:15:00,10:15:00,Mobile Application Development,F_SSP,3,MCA,A,Computer Lab,103,97,94.17,85.44,0,Theory,No,No,No,Sunny,No,9
+15-07-2026,Wednesday,3,10:15:00,11:15:00,Data Science & Machine Learning,F_SP,3,MCA,A,Computer Lab,103,74,71.84,94.17,0,Theory,No,No,No,Rainy,No,8
+15-07-2026,Wednesday,4,11:15:00,12:15:00,Principles of Cloud Management and Security,F_KSD,3,MCA,A,Computer Lab,103,87,84.47,71.84,0,Theory,No,No,No,Rainy,No,7
+15-07-2026,Wednesday,5,13:30:00,15:30:00,Software Testing and Quality Assurance,F_DPY,3,MCA,A,Computer Lab,103,90,87.38,84.47,1.25,Practical,No,No,No,Cloudy,No,6
+15-07-2026,Wednesday,1,08:30:00,09:15:00,Mobile Application Development,F_SSP,3,MCA,B,Computer Lab,101,76,75.25,,,Theory,No,Yes,No,Cloudy,No,9
+15-07-2026,Wednesday,2,09:15:00,10:15:00,Mobile Application Development,F_SSP,3,MCA,B,Computer Lab,101,89,88.12,75.25,0,Theory,No,No,No,Cloudy,No,9
+15-07-2026,Wednesday,3,10:15:00,11:15:00,Data Science & Machine Learning,F_SP,3,MCA,B,Computer Lab,101,93,92.08,88.12,0,Theory,No,No,No,Sunny,No,8
+15-07-2026,Wednesday,4,11:15:00,12:15:00,Principles of Cloud Management and Security,F_KSD,3,MCA,B,Computer Lab,101,61,60.4,92.08,0,Theory,No,No,No,Rainy,No,7
+15-07-2026,Wednesday,5,13:30:00,15:30:00,Software Testing and Quality Assurance,F_DPY,3,MCA,B,Computer Lab,101,84,83.17,60.4,1.25,Practical,No,No,No,Cloudy,No,6
+16-07-2026,Thursday,1,08:30:00,09:15:00,Mobile Application Development,F_SSP,3,MCA,A,Computer Lab,103,77,74.76,,,Theory,No,No,No,Cloudy,No,9
+16-07-2026,Thursday,2,09:15:00,10:15:00,Mobile Application Development,F_SSP,3,MCA,A,Computer Lab,103,73,70.87,74.76,0,Theory,No,No,No,Rainy,No,9
+16-07-2026,Thursday,3,10:15:00,11:15:00,Innovation and Entrepreneurship Development,F_JSP,3,MCA,A,Computer Lab,103,90,87.38,70.87,0,Theory,No,No,No,Cloudy,No,12
+16-07-2026,Thursday,4,11:15:00,12:15:00,Innovation and Entrepreneurship Development,F_JSP,3,MCA,A,Computer Lab,103,78,75.73,87.38,0,Theory,No,No,No,Rainy,No,12
+16-07-2026,Thursday,5,13:30:00,15:30:00,STQA Practical,F_DPY,3,MCA,A,Computer Lab,103,63,61.17,75.73,1.25,Practical,No,No,No,Rainy,No,6
+16-07-2026,Thursday,1,08:30:00,09:15:00,Mobile Application Development,F_SSP,3,MCA,B,Computer Lab,101,73,72.28,,,Theory,No,No,No,Rainy,No,9
+16-07-2026,Thursday,2,09:15:00,10:15:00,Mobile Application Development,F_SSP,3,MCA,B,Computer Lab,101,67,66.34,72.28,0,Theory,No,No,No,Rainy,No,9
+16-07-2026,Thursday,3,10:15:00,11:15:00,Innovation and Entrepreneurship Development,F_JSP,3,MCA,B,Computer Lab,101,66,65.35,66.34,0,Theory,No,No,No,Sunny,Yes,12
+16-07-2026,Thursday,4,11:15:00,12:15:00,Innovation and Entrepreneurship Development,F_JSP,3,MCA,B,Computer Lab,101,88,87.13,65.35,0,Theory,No,No,No,Sunny,No,12
+16-07-2026,Thursday,5,13:30:00,15:30:00,STQA Practical,F_DPY,3,MCA,B,Computer Lab,101,72,71.29,87.13,1.25,Practical,No,Yes,No,Rainy,No,6
+17-07-2026,Friday,1,08:30:00,09:15:00,Mobile Application Development,F_SSP,3,MCA,A,Computer Lab,103,56,54.37,,,Theory,No,No,Before,Sunny,No,9
+17-07-2026,Friday,2,09:15:00,10:15:00,Mobile Application Development,F_SSP,3,MCA,A,Computer Lab,103,47,45.63,54.37,0,Theory,No,Yes,Before,Rainy,No,9
+17-07-2026,Friday,3,10:15:00,11:15:00,Principles of Cloud Management and Security,F_KSD,3,MCA,A,Computer Lab,103,103,100,45.63,0,Theory,No,No,Before,Rainy,No,7
+17-07-2026,Friday,4,11:15:00,12:15:00,Data Science & Machine Learning,F_SP,3,MCA,A,Computer Lab,103,79,76.7,100,0,Theory,No,No,Before,Cloudy,No,8
+17-07-2026,Friday,5,13:30:00,15:30:00,DS & ML Practical,F_MLK,3,MCA,A,Computer Lab,103,71,68.93,76.7,1.25,Practical,No,No,Before,Rainy,No,11
+17-07-2026,Friday,1,08:30:00,09:15:00,Mobile Application Development,F_SSP,3,MCA,B,Computer Lab,101,51,50.5,,,Theory,No,No,Before,Rainy,No,9
+17-07-2026,Friday,2,09:15:00,10:15:00,Mobile Application Development,F_SSP,3,MCA,B,Computer Lab,101,75,74.26,50.5,0,Theory,No,No,Before,Cloudy,No,9
+17-07-2026,Friday,3,10:15:00,11:15:00,Principles of Cloud Management and Security,F_KSD,3,MCA,B,Computer Lab,101,69,68.32,74.26,0,Theory,No,No,Before,Cloudy,No,7
+17-07-2026,Friday,4,11:15:00,12:15:00,Data Science & Machine Learning,F_SP,3,MCA,B,Computer Lab,101,67,66.34,68.32,0,Theory,No,No,Before,Cloudy,No,8
+17-07-2026,Friday,5,13:30:00,15:30:00,DS & ML Practical,F_MLK,3,MCA,B,Computer Lab,101,64,63.37,66.34,1.25,Practical,No,No,Before,Sunny,No,11
+18-07-2026,Saturday,1,08:30:00,09:15:00,Mobile Application Development,F_SSP,3,MCA,A,Computer Lab,103,102,99.03,,,Theory,No,No,No,Cloudy,No,9
+18-07-2026,Saturday,2,09:15:00,10:15:00,Mobile Application Development,F_SSP,3,MCA,A,Computer Lab,103,90,87.38,99.03,0,Theory,No,No,No,Sunny,No,9
+18-07-2026,Saturday,3,10:15:00,11:15:00,Software Testing and Quality Assurance,F_DPY,3,MCA,A,Computer Lab,103,72,69.9,87.38,0,Theory,No,Yes,No,Cloudy,No,6
+18-07-2026,Saturday,4,11:15:00,12:15:00,Principles of Cloud Management and Security,F_KSD,3,MCA,A,Computer Lab,103,79,76.7,69.9,0,Theory,No,Yes,No,Cloudy,No,7
+18-07-2026,Saturday,5,13:30:00,15:30:00,Innovation and Entrepreneurship Development,F_JSP,3,MCA,A,Computer Lab,103,73,70.87,76.7,1.25,Theory,No,No,No,Rainy,No,12
+18-07-2026,Saturday,1,08:30:00,09:15:00,Mobile Application Development,F_SSP,3,MCA,B,Computer Lab,101,69,68.32,,,Theory,No,Yes,No,Cloudy,No,9
+18-07-2026,Saturday,2,09:15:00,10:15:00,Mobile Application Development,F_SSP,3,MCA,B,Computer Lab,101,94,93.07,68.32,0,Theory,No,No,No,Sunny,No,9
+18-07-2026,Saturday,3,10:15:00,11:15:00,Software Testing and Quality Assurance,F_DPY,3,MCA,B,Computer Lab,101,85,84.16,93.07,0,Theory,No,No,No,Cloudy,No,6
+18-07-2026,Saturday,4,11:15:00,12:15:00,Principles of Cloud Management and Security,F_KSD,3,MCA,B,Computer Lab,101,92,91.09,84.16,0,Theory,No,No,No,Sunny,No,7
+18-07-2026,Saturday,5,13:30:00,15:30:00,Innovation and Entrepreneurship Development,F_JSP,3,MCA,B,Computer Lab,101,90,89.11,91.09,1.25,Theory,No,No,No,Cloudy,No,12
+20-07-2026,Monday,1,08:30:00,09:15:00,Mobile Application Development,F_SSP,3,MCA,A,Computer Lab,103,55,53.4,,,Theory,No,No,No,Rainy,No,9
+20-07-2026,Monday,2,09:15:00,10:15:00,Mobile Application Development,F_SSP,3,MCA,A,Computer Lab,103,52,50.49,53.4,0,Theory,No,No,No,Rainy,No,9
+20-07-2026,Monday,3,10:15:00,11:15:00,Data Science & Machine Learning,F_SP,3,MCA,A,Computer Lab,103,66,64.08,50.49,0,Theory,No,No,No,Rainy,No,8
+20-07-2026,Monday,4,11:15:00,12:15:00,Software Testing and Quality Assurance,F_DPY,3,MCA,A,Computer Lab,103,67,65.05,64.08,0,Theory,No,No,No,Cloudy,No,6
+20-07-2026,Monday,5,13:30:00,15:30:00,Industry Readiness Program,F_Visiting,3,MCA,A,Computer Lab,103,54,52.43,65.05,1.25,Theory,No,No,No,Cloudy,No,4
+20-07-2026,Monday,1,08:30:00,09:15:00,Mobile Application Development,F_SSP,3,MCA,B,Computer Lab,101,61,60.4,,,Theory,No,No,No,Cloudy,No,9
+20-07-2026,Monday,2,09:15:00,10:15:00,Mobile Application Development,F_SSP,3,MCA,B,Computer Lab,101,61,60.4,60.4,0,Theory,No,No,No,Rainy,No,9
+20-07-2026,Monday,3,10:15:00,11:15:00,Data Science & Machine Learning,F_SP,3,MCA,B,Computer Lab,101,73,72.28,60.4,0,Theory,No,No,No,Cloudy,No,8
+20-07-2026,Monday,4,11:15:00,12:15:00,Software Testing and Quality Assurance,F_DPY,3,MCA,B,Computer Lab,101,50,49.5,72.28,0,Theory,No,No,No,Rainy,No,6
+20-07-2026,Monday,5,13:30:00,15:30:00,Industry Readiness Program,F_Visiting,3,MCA,B,Computer Lab,101,66,65.35,49.5,1.25,Theory,No,No,No,Sunny,No,4
+21-07-2026,Tuesday,1,08:30:00,09:15:00,Mobile Application Development,F_SSP,3,MCA,A,Computer Lab,103,74,71.84,,,Theory,No,No,No,Rainy,No,9
+21-07-2026,Tuesday,2,09:15:00,10:15:00,Mobile Application Development,F_SSP,3,MCA,A,Computer Lab,103,85,82.52,71.84,0,Theory,No,No,No,Sunny,No,9
+21-07-2026,Tuesday,3,10:15:00,11:15:00,Data Science & Machine Learning,F_SP,3,MCA,A,Computer Lab,103,78,75.73,82.52,0,Theory,No,No,No,Rainy,No,8
+21-07-2026,Tuesday,4,11:15:00,12:15:00,Principles of Cloud Management and Security,F_KSD,3,MCA,A,Computer Lab,103,76,73.79,75.73,0,Theory,No,No,No,Rainy,No,7
+21-07-2026,Tuesday,5,13:30:00,15:30:00,Software Testing and Quality Assurance,F_DPY,3,MCA,A,Computer Lab,103,90,87.38,73.79,1.25,Practical,No,No,No,Sunny,No,6
+21-07-2026,Tuesday,1,08:30:00,09:15:00,Mobile Application Development,F_SSP,3,MCA,B,Computer Lab,101,74,73.27,,,Theory,No,No,No,Rainy,No,9
+21-07-2026,Tuesday,2,09:15:00,10:15:00,Mobile Application Development,F_SSP,3,MCA,B,Computer Lab,101,84,83.17,73.27,0,Theory,No,No,No,Cloudy,No,9
+21-07-2026,Tuesday,3,10:15:00,11:15:00,Data Science & Machine Learning,F_SP,3,MCA,B,Computer Lab,101,69,68.32,83.17,0,Theory,No,No,No,Rainy,No,8
+21-07-2026,Tuesday,4,11:15:00,12:15:00,Principles of Cloud Management and Security,F_KSD,3,MCA,B,Computer Lab,101,67,66.34,68.32,0,Theory,No,No,No,Sunny,No,7
+21-07-2026,Tuesday,5,13:30:00,15:30:00,Software Testing and Quality Assurance,F_DPY,3,MCA,B,Computer Lab,101,99,98.02,66.34,1.25,Practical,No,No,No,Rainy,No,6
+22-07-2026,Wednesday,1,08:30:00,09:15:00,Mobile Application Development,F_SSP,3,MCA,A,Computer Lab,103,57,55.34,,,Practical,No,No,After,Sunny,No,9
+22-07-2026,Wednesday,2,09:15:00,10:15:00,Mobile Application Development,F_SSP,3,MCA,A,Computer Lab,103,60,58.25,55.34,0,Practical,No,No,After,Rainy,No,9
+22-07-2026,Wednesday,3,10:15:00,11:15:00,Mini Project,F_RSZ,3,MCA,A,Computer Lab,103,67,65.05,58.25,0,Practical,No,No,After,Rainy,No,15
+22-07-2026,Wednesday,4,11:15:00,12:15:00,Mini Project,F_RSZ,3,MCA,A,Computer Lab,103,75,72.82,65.05,0,Practical,No,Yes,After,Cloudy,No,15
+22-07-2026,Wednesday,1,08:30:00,09:15:00,Mobile Application Development,F_SSP,3,MCA,B,Computer Lab,101,61,60.4,,,Practical,No,No,After,Cloudy,No,9
+22-07-2026,Wednesday,2,09:15:00,10:15:00,Mobile Application Development,F_SSP,3,MCA,B,Computer Lab,101,70,69.31,60.4,0,Practical,No,No,After,Cloudy,No,9
+22-07-2026,Wednesday,3,10:15:00,11:15:00,Mini Project,F_RSZ,3,MCA,B,Computer Lab,101,61,60.4,69.31,0,Practical,No,No,After,Rainy,No,15
+22-07-2026,Wednesday,4,11:15:00,12:15:00,Mini Project,F_RSZ,3,MCA,B,Computer Lab,101,60,59.41,60.4,0,Practical,No,No,After,Rainy,No,15
+23-07-2026,Thursday,1,08:30:00,09:15:00,Mobile Application Development,F_SSP,3,MCA,A,Computer Lab,103,74,71.84,,,Theory,No,No,No,Cloudy,No,9
+23-07-2026,Thursday,2,09:15:00,10:15:00,Mobile Application Development,F_SSP,3,MCA,A,Computer Lab,103,67,65.05,71.84,0,Theory,No,Yes,No,Sunny,No,9
+23-07-2026,Thursday,3,10:15:00,11:15:00,Innovation and Entrepreneurship Development,F_JSP,3,MCA,A,Computer Lab,103,58,56.31,65.05,0,Theory,No,Yes,No,Cloudy,No,12
+23-07-2026,Thursday,4,11:15:00,12:15:00,Innovation and Entrepreneurship Development,F_JSP,3,MCA,A,Computer Lab,103,80,77.67,56.31,0,Theory,No,No,No,Rainy,No,12
+23-07-2026,Thursday,5,13:30:00,15:30:00,STQA Practical,F_DPY,3,MCA,A,Computer Lab,103,85,82.52,77.67,1.25,Practical,No,No,No,Rainy,Yes,6
+23-07-2026,Thursday,1,08:30:00,09:15:00,Mobile Application Development,F_SSP,3,MCA,B,Computer Lab,101,65,64.36,,,Theory,No,No,No,Sunny,No,9
+23-07-2026,Thursday,2,09:15:00,10:15:00,Mobile Application Development,F_SSP,3,MCA,B,Computer Lab,101,76,75.25,64.36,0,Theory,No,No,No,Rainy,No,9
+23-07-2026,Thursday,3,10:15:00,11:15:00,Innovation and Entrepreneurship Development,F_JSP,3,MCA,B,Computer Lab,101,75,74.26,75.25,0,Theory,No,No,No,Rainy,No,12
+23-07-2026,Thursday,4,11:15:00,12:15:00,Innovation and Entrepreneurship Development,F_JSP,3,MCA,B,Computer Lab,101,65,64.36,74.26,0,Theory,No,No,No,Rainy,No,12
+23-07-2026,Thursday,5,13:30:00,15:30:00,STQA Practical,F_DPY,3,MCA,B,Computer Lab,101,78,77.23,64.36,1.25,Practical,No,Yes,No,Rainy,No,6
+24-07-2026,Friday,1,08:30:00,09:15:00,Mobile Application Development,F_SSP,3,MCA,A,Computer Lab,103,85,82.52,,,Theory,No,No,No,Sunny,No,9
+24-07-2026,Friday,2,09:15:00,10:15:00,Mobile Application Development,F_SSP,3,MCA,A,Computer Lab,103,75,72.82,82.52,0,Theory,No,No,No,Cloudy,No,9
+24-07-2026,Friday,3,10:15:00,11:15:00,Principles of Cloud Management and Security,F_KSD,3,MCA,A,Computer Lab,103,90,87.38,72.82,0,Theory,No,No,No,Cloudy,No,7
+24-07-2026,Friday,4,11:15:00,12:15:00,Data Science & Machine Learning,F_SP,3,MCA,A,Computer Lab,103,73,70.87,87.38,0,Theory,No,No,No,Rainy,No,8
+24-07-2026,Friday,5,13:30:00,15:30:00,DS & ML Practical,F_MLK,3,MCA,A,Computer Lab,103,70,67.96,70.87,1.25,Practical,No,No,No,Rainy,No,11
+24-07-2026,Friday,1,08:30:00,09:15:00,Mobile Application Development,F_SSP,3,MCA,B,Computer Lab,101,54,53.47,,,Theory,No,Yes,No,Rainy,No,9
+24-07-2026,Friday,2,09:15:00,10:15:00,Mobile Application Development,F_SSP,3,MCA,B,Computer Lab,101,67,66.34,53.47,0,Theory,No,No,No,Cloudy,No,9
+24-07-2026,Friday,3,10:15:00,11:15:00,Principles of Cloud Management and Security,F_KSD,3,MCA,B,Computer Lab,101,77,76.24,66.34,0,Theory,No,No,No,Cloudy,No,7
+24-07-2026,Friday,4,11:15:00,12:15:00,Data Science & Machine Learning,F_SP,3,MCA,B,Computer Lab,101,79,78.22,76.24,0,Theory,No,No,No,Cloudy,No,8
+24-07-2026,Friday,5,13:30:00,15:30:00,DS & ML Practical,F_MLK,3,MCA,B,Computer Lab,101,62,61.39,78.22,1.25,Practical,No,No,No,Cloudy,No,11
+25-07-2026,Saturday,1,08:30:00,09:15:00,Mobile Application Development,F_SSP,3,MCA,A,Computer Lab,103,77,74.76,,,Theory,No,Yes,No,Rainy,No,9
+25-07-2026,Saturday,2,09:15:00,10:15:00,Mobile Application Development,F_SSP,3,MCA,A,Computer Lab,103,77,74.76,74.76,0,Theory,No,No,No,Rainy,No,9
+25-07-2026,Saturday,3,10:15:00,11:15:00,Software Testing and Quality Assurance,F_DPY,3,MCA,A,Computer Lab,103,74,71.84,74.76,0,Theory,No,No,No,Sunny,No,6
+25-07-2026,Saturday,4,11:15:00,12:15:00,Principles of Cloud Management and Security,F_KSD,3,MCA,A,Computer Lab,103,48,46.6,71.84,0,Theory,No,No,No,Rainy,Yes,7
+25-07-2026,Saturday,5,13:30:00,15:30:00,Innovation and Entrepreneurship Development,F_JSP,3,MCA,A,Computer Lab,103,65,63.11,46.6,1.25,Theory,No,No,No,Rainy,No,12
+25-07-2026,Saturday,1,08:30:00,09:15:00,Mobile Application Development,F_SSP,3,MCA,B,Computer Lab,101,69,68.32,,,Theory,No,No,No,Cloudy,No,9
+25-07-2026,Saturday,2,09:15:00,10:15:00,Mobile Application Development,F_SSP,3,MCA,B,Computer Lab,101,78,77.23,68.32,0,Theory,No,No,No,Rainy,No,9
+25-07-2026,Saturday,3,10:15:00,11:15:00,Software Testing and Quality Assurance,F_DPY,3,MCA,B,Computer Lab,101,68,67.33,77.23,0,Theory,No,No,No,Rainy,No,6
+25-07-2026,Saturday,4,11:15:00,12:15:00,Principles of Cloud Management and Security,F_KSD,3,MCA,B,Computer Lab,101,69,68.32,67.33,0,Theory,No,No,No,Rainy,No,7
+25-07-2026,Saturday,5,13:30:00,15:30:00,Innovation and Entrepreneurship Development,F_JSP,3,MCA,B,Computer Lab,101,67,66.34,68.32,1.25,Theory,No,No,No,Rainy,Yes,12
+27-07-2026,Monday,1,08:30:00,09:15:00,Mobile Application Development,F_SSP,3,MCA,A,Computer Lab,103,93,90.29,,,Theory,No,No,No,Rainy,No,9
+27-07-2026,Monday,2,09:15:00,10:15:00,Mobile Application Development,F_SSP,3,MCA,A,Computer Lab,103,103,100,90.29,0,Theory,No,No,No,Rainy,No,9
+27-07-2026,Monday,3,10:15:00,11:15:00,Data Science & Machine Learning,F_SP,3,MCA,A,Computer Lab,103,97,94.17,100,0,Theory,No,No,No,Sunny,No,8
+27-07-2026,Monday,4,11:15:00,12:15:00,Software Testing and Quality Assurance,F_DPY,3,MCA,A,Computer Lab,103,98,95.15,94.17,0,Theory,No,No,No,Rainy,No,6
+27-07-2026,Monday,5,13:30:00,15:30:00,Industry Readiness Program,F_Visiting,3,MCA,A,Computer Lab,103,95,92.23,95.15,1.25,Theory,No,No,No,Cloudy,No,4
+27-07-2026,Monday,1,08:30:00,09:15:00,Mobile Application Development,F_SSP,3,MCA,B,Computer Lab,101,68,67.33,,,Theory,No,No,No,Cloudy,No,9
+27-07-2026,Monday,2,09:15:00,10:15:00,Mobile Application Development,F_SSP,3,MCA,B,Computer Lab,101,64,63.37,67.33,0,Theory,No,No,No,Sunny,No,9
+27-07-2026,Monday,3,10:15:00,11:15:00,Data Science & Machine Learning,F_SP,3,MCA,B,Computer Lab,101,78,77.23,63.37,0,Theory,No,No,No,Rainy,No,8
+27-07-2026,Monday,4,11:15:00,12:15:00,Software Testing and Quality Assurance,F_DPY,3,MCA,B,Computer Lab,101,86,85.15,77.23,0,Theory,No,No,No,Cloudy,No,6
+27-07-2026,Monday,5,13:30:00,15:30:00,Industry Readiness Program,F_Visiting,3,MCA,B,Computer Lab,101,77,76.24,85.15,1.25,Theory,No,No,No,Sunny,No,4
+28-07-2026,Tuesday,1,08:30:00,09:15:00,Mobile Application Development,F_SSP,3,MCA,A,Computer Lab,103,82,79.61,,,Theory,No,No,No,Rainy,No,9
+28-07-2026,Tuesday,2,09:15:00,10:15:00,Mobile Application Development,F_SSP,3,MCA,A,Computer Lab,103,81,78.64,79.61,0,Theory,No,No,No,Sunny,No,9
+28-07-2026,Tuesday,3,10:15:00,11:15:00,Data Science & Machine Learning,F_SP,3,MCA,A,Computer Lab,103,61,59.22,78.64,0,Theory,No,No,No,Cloudy,No,8
+28-07-2026,Tuesday,4,11:15:00,12:15:00,Principles of Cloud Management and Security,F_KSD,3,MCA,A,Computer Lab,103,65,63.11,59.22,0,Theory,No,No,No,Sunny,No,7
+28-07-2026,Tuesday,5,13:30:00,15:30:00,Software Testing and Quality Assurance,F_DPY,3,MCA,A,Computer Lab,103,50,48.54,63.11,1.25,Practical,No,No,No,Rainy,No,6
+28-07-2026,Tuesday,1,08:30:00,09:15:00,Mobile Application Development,F_SSP,3,MCA,B,Computer Lab,101,72,71.29,,,Theory,No,No,No,Cloudy,No,9
+28-07-2026,Tuesday,2,09:15:00,10:15:00,Mobile Application Development,F_SSP,3,MCA,B,Computer Lab,101,52,51.49,71.29,0,Theory,No,No,No,Rainy,No,9
+28-07-2026,Tuesday,3,10:15:00,11:15:00,Data Science & Machine Learning,F_SP,3,MCA,B,Computer Lab,101,75,74.26,51.49,0,Theory,No,No,No,Rainy,No,8
+28-07-2026,Tuesday,4,11:15:00,12:15:00,Principles of Cloud Management and Security,F_KSD,3,MCA,B,Computer Lab,101,72,71.29,74.26,0,Theory,No,No,No,Cloudy,No,7
+28-07-2026,Tuesday,5,13:30:00,15:30:00,Software Testing and Quality Assurance,F_DPY,3,MCA,B,Computer Lab,101,61,60.4,71.29,1.25,Practical,No,No,No,Sunny,No,6
+29-07-2026,Wednesday,1,08:30:00,09:15:00,Mobile Application Development,F_SSP,3,MCA,A,Computer Lab,103,91,88.35,,,Practical,No,No,No,Cloudy,No,9
+29-07-2026,Wednesday,2,09:15:00,10:15:00,Mobile Application Development,F_SSP,3,MCA,A,Computer Lab,103,87,84.47,88.35,0,Practical,No,No,No,Rainy,No,9
+29-07-2026,Wednesday,3,10:15:00,11:15:00,Mini Project,F_RSZ,3,MCA,A,Computer Lab,103,75,72.82,84.47,0,Practical,No,No,No,Rainy,No,15
+29-07-2026,Wednesday,4,11:15:00,12:15:00,Mini Project,F_RSZ,3,MCA,A,Computer Lab,103,75,72.82,72.82,0,Practical,No,No,No,Rainy,No,15
+29-07-2026,Wednesday,1,08:30:00,09:15:00,Mobile Application Development,F_SSP,3,MCA,B,Computer Lab,101,85,84.16,,,Practical,No,No,No,Sunny,No,9
+29-07-2026,Wednesday,2,09:15:00,10:15:00,Mobile Application Development,F_SSP,3,MCA,B,Computer Lab,101,92,91.09,84.16,0,Practical,No,No,No,Rainy,No,9
+29-07-2026,Wednesday,3,10:15:00,11:15:00,Mini Project,F_RSZ,3,MCA,B,Computer Lab,101,78,77.23,91.09,0,Practical,No,No,No,Rainy,No,15
+29-07-2026,Wednesday,4,11:15:00,12:15:00,Mini Project,F_RSZ,3,MCA,B,Computer Lab,101,68,67.33,77.23,0,Practical,No,No,No,Rainy,No,15
+30-07-2026,Thursday,1,08:30:00,09:15:00,Mobile Application Development,F_SSP,3,MCA,A,Computer Lab,103,93,90.29,,,Theory,No,No,No,Cloudy,No,9
+30-07-2026,Thursday,2,09:15:00,10:15:00,Mobile Application Development,F_SSP,3,MCA,A,Computer Lab,103,77,74.76,90.29,0,Theory,No,No,No,Rainy,No,9
+30-07-2026,Thursday,3,10:15:00,11:15:00,Innovation and Entrepreneurship Development,F_JSP,3,MCA,A,Computer Lab,103,87,84.47,74.76,0,Theory,No,Yes,No,Rainy,No,12
+30-07-2026,Thursday,4,11:15:00,12:15:00,Innovation and Entrepreneurship Development,F_JSP,3,MCA,A,Computer Lab,103,81,78.64,84.47,0,Theory,No,No,No,Rainy,No,12
+30-07-2026,Thursday,5,13:30:00,15:30:00,STQA Practical,F_DPY,3,MCA,A,Computer Lab,103,83,80.58,78.64,1.25,Practical,No,No,No,Cloudy,No,6
+30-07-2026,Thursday,1,08:30:00,09:15:00,Mobile Application Development,F_SSP,3,MCA,B,Computer Lab,101,60,59.41,,,Theory,No,Yes,No,Rainy,No,9
+30-07-2026,Thursday,2,09:15:00,10:15:00,Mobile Application Development,F_SSP,3,MCA,B,Computer Lab,101,75,74.26,59.41,0,Theory,No,No,No,Rainy,No,9
+30-07-2026,Thursday,3,10:15:00,11:15:00,Innovation and Entrepreneurship Development,F_JSP,3,MCA,B,Computer Lab,101,65,64.36,74.26,0,Theory,No,No,No,Sunny,No,12
+30-07-2026,Thursday,4,11:15:00,12:15:00,Innovation and Entrepreneurship Development,F_JSP,3,MCA,B,Computer Lab,101,71,70.3,64.36,0,Theory,No,No,No,Rainy,No,12
+30-07-2026,Thursday,5,13:30:00,15:30:00,STQA Practical,F_DPY,3,MCA,B,Computer Lab,101,82,81.19,70.3,1.25,Practical,No,No,No,Cloudy,No,6
+31-07-2026,Friday,1,08:30:00,09:15:00,Mobile Application Development,F_SSP,3,MCA,A,Computer Lab,103,74,71.84,,,Theory,No,Yes,No,Cloudy,No,9
+31-07-2026,Friday,2,09:15:00,10:15:00,Mobile Application Development,F_SSP,3,MCA,A,Computer Lab,103,80,77.67,71.84,0,Theory,No,No,No,Cloudy,No,9
+31-07-2026,Friday,3,10:15:00,11:15:00,Principles of Cloud Management and Security,F_KSD,3,MCA,A,Computer Lab,103,65,63.11,77.67,0,Theory,No,Yes,No,Cloudy,Yes,7
+31-07-2026,Friday,4,11:15:00,12:15:00,Data Science & Machine Learning,F_SP,3,MCA,A,Computer Lab,103,93,90.29,63.11,0,Theory,No,No,No,Rainy,No,8
+31-07-2026,Friday,5,13:30:00,15:30:00,DS & ML Practical,F_MLK,3,MCA,A,Computer Lab,103,61,59.22,90.29,1.25,Practical,No,No,No,Sunny,No,11
+31-07-2026,Friday,1,08:30:00,09:15:00,Mobile Application Development,F_SSP,3,MCA,B,Computer Lab,101,74,73.27,,,Theory,No,No,No,Rainy,No,9
+31-07-2026,Friday,2,09:15:00,10:15:00,Mobile Application Development,F_SSP,3,MCA,B,Computer Lab,101,83,82.18,73.27,0,Theory,No,No,No,Rainy,No,9
+31-07-2026,Friday,3,10:15:00,11:15:00,Principles of Cloud Management and Security,F_KSD,3,MCA,B,Computer Lab,101,88,87.13,82.18,0,Theory,No,No,No,Rainy,No,7
+31-07-2026,Friday,4,11:15:00,12:15:00,Data Science & Machine Learning,F_SP,3,MCA,B,Computer Lab,101,100,99.01,87.13,0,Theory,No,Yes,No,Rainy,No,8
+31-07-2026,Friday,5,13:30:00,15:30:00,DS & ML Practical,F_MLK,3,MCA,B,Computer Lab,101,62,61.39,99.01,1.25,Practical,No,No,No,Rainy,No,11
+01-08-2026,Saturday,1,08:30:00,09:15:00,Mobile Application Development,F_SSP,3,MCA,A,Computer Lab,103,63,61.17,,,Theory,No,No,No,Rainy,No,9
+01-08-2026,Saturday,2,09:15:00,10:15:00,Mobile Application Development,F_SSP,3,MCA,A,Computer Lab,103,95,92.23,61.17,0,Theory,No,No,No,Rainy,No,9
+01-08-2026,Saturday,3,10:15:00,11:15:00,Software Testing and Quality Assurance,F_DPY,3,MCA,A,Computer Lab,103,92,89.32,92.23,0,Theory,No,No,No,Cloudy,No,6
+01-08-2026,Saturday,4,11:15:00,12:15:00,Principles of Cloud Management and Security,F_KSD,3,MCA,A,Computer Lab,103,80,77.67,89.32,0,Theory,No,No,No,Sunny,No,7
+01-08-2026,Saturday,5,13:30:00,15:30:00,Innovation and Entrepreneurship Development,F_JSP,3,MCA,A,Computer Lab,103,79,76.7,77.67,1.25,Theory,No,No,No,Rainy,No,12
+01-08-2026,Saturday,1,08:30:00,09:15:00,Mobile Application Development,F_SSP,3,MCA,B,Computer Lab,101,76,75.25,,,Theory,No,No,No,Rainy,No,9
+01-08-2026,Saturday,2,09:15:00,10:15:00,Mobile Application Development,F_SSP,3,MCA,B,Computer Lab,101,67,66.34,75.25,0,Theory,No,No,No,Rainy,No,9
+01-08-2026,Saturday,3,10:15:00,11:15:00,Software Testing and Quality Assurance,F_DPY,3,MCA,B,Computer Lab,101,60,59.41,66.34,0,Theory,No,No,No,Cloudy,No,6
+01-08-2026,Saturday,4,11:15:00,12:15:00,Principles of Cloud Management and Security,F_KSD,3,MCA,B,Computer Lab,101,52,51.49,59.41,0,Theory,No,No,No,Cloudy,No,7
+01-08-2026,Saturday,5,13:30:00,15:30:00,Innovation and Entrepreneurship Development,F_JSP,3,MCA,B,Computer Lab,101,51,50.5,51.49,1.25,Theory,No,No,No,Rainy,Yes,12
+03-08-2026,Monday,1,08:30:00,09:15:00,Mobile Application Development,F_SSP,3,MCA,A,Computer Lab,103,59,57.28,,,Theory,Yes,No,No,Rainy,No,9
+03-08-2026,Monday,2,09:15:00,10:15:00,Mobile Application Development,F_SSP,3,MCA,A,Computer Lab,103,75,72.82,57.28,0,Theory,Yes,No,No,Cloudy,No,9
+03-08-2026,Monday,3,10:15:00,11:15:00,Data Science & Machine Learning,F_SP,3,MCA,A,Computer Lab,103,68,66.02,72.82,0,Theory,Yes,No,No,Rainy,No,8
+03-08-2026,Monday,4,11:15:00,12:15:00,Software Testing and Quality Assurance,F_DPY,3,MCA,A,Computer Lab,103,55,53.4,66.02,0,Theory,Yes,No,No,Cloudy,No,6
+03-08-2026,Monday,5,13:30:00,15:30:00,Industry Readiness Program,F_Visiting,3,MCA,A,Computer Lab,103,65,63.11,53.4,1.25,Theory,Yes,No,No,Rainy,No,4
+03-08-2026,Monday,1,08:30:00,09:15:00,Mobile Application Development,F_SSP,3,MCA,B,Computer Lab,101,62,61.39,,,Theory,Yes,No,No,Rainy,Yes,9
+03-08-2026,Monday,2,09:15:00,10:15:00,Mobile Application Development,F_SSP,3,MCA,B,Computer Lab,101,56,55.45,61.39,0,Theory,Yes,No,No,Rainy,No,9
+03-08-2026,Monday,3,10:15:00,11:15:00,Data Science & Machine Learning,F_SP,3,MCA,B,Computer Lab,101,72,71.29,55.45,0,Theory,Yes,No,No,Cloudy,No,8
+03-08-2026,Monday,4,11:15:00,12:15:00,Software Testing and Quality Assurance,F_DPY,3,MCA,B,Computer Lab,101,68,67.33,71.29,0,Theory,Yes,No,No,Sunny,No,6
+03-08-2026,Monday,5,13:30:00,15:30:00,Industry Readiness Program,F_Visiting,3,MCA,B,Computer Lab,101,59,58.42,67.33,1.25,Theory,Yes,No,No,Cloudy,No,4
+04-08-2026,Tuesday,1,08:30:00,09:15:00,Mobile Application Development,F_SSP,3,MCA,A,Computer Lab,103,64,62.14,,,Theory,Yes,No,No,Sunny,Yes,9
+04-08-2026,Tuesday,2,09:15:00,10:15:00,Mobile Application Development,F_SSP,3,MCA,A,Computer Lab,103,52,50.49,62.14,0,Theory,Yes,No,No,Sunny,No,9
+04-08-2026,Tuesday,3,10:15:00,11:15:00,Data Science & Machine Learning,F_SP,3,MCA,A,Computer Lab,103,73,70.87,50.49,0,Theory,Yes,No,No,Sunny,No,8
+04-08-2026,Tuesday,4,11:15:00,12:15:00,Principles of Cloud Management and Security,F_KSD,3,MCA,A,Computer Lab,103,71,68.93,70.87,0,Theory,Yes,No,No,Sunny,No,7
+04-08-2026,Tuesday,5,13:30:00,15:30:00,Software Testing and Quality Assurance,F_DPY,3,MCA,A,Computer Lab,103,80,77.67,68.93,1.25,Practical,Yes,No,No,Sunny,No,6
+04-08-2026,Tuesday,1,08:30:00,09:15:00,Mobile Application Development,F_SSP,3,MCA,B,Computer Lab,101,75,74.26,,,Theory,Yes,No,No,Sunny,No,9
+04-08-2026,Tuesday,2,09:15:00,10:15:00,Mobile Application Development,F_SSP,3,MCA,B,Computer Lab,101,62,61.39,74.26,0,Theory,Yes,No,No,Rainy,No,9
+04-08-2026,Tuesday,3,10:15:00,11:15:00,Data Science & Machine Learning,F_SP,3,MCA,B,Computer Lab,101,82,81.19,61.39,0,Theory,Yes,No,No,Rainy,No,8
+04-08-2026,Tuesday,4,11:15:00,12:15:00,Principles of Cloud Management and Security,F_KSD,3,MCA,B,Computer Lab,101,76,75.25,81.19,0,Theory,Yes,No,No,Rainy,No,7
+04-08-2026,Tuesday,5,13:30:00,15:30:00,Software Testing and Quality Assurance,F_DPY,3,MCA,B,Computer Lab,101,64,63.37,75.25,1.25,Practical,Yes,No,No,Rainy,No,6
+05-08-2026,Wednesday,1,08:30:00,09:15:00,Mobile Application Development,F_SSP,3,MCA,A,Computer Lab,103,85,82.52,,,Practical,Yes,No,No,Rainy,No,9
+05-08-2026,Wednesday,2,09:15:00,10:15:00,Mobile Application Development,F_SSP,3,MCA,A,Computer Lab,103,72,69.9,82.52,0,Practical,Yes,No,No,Cloudy,No,9
+05-08-2026,Wednesday,3,10:15:00,11:15:00,Mini Project,F_RSZ,3,MCA,A,Computer Lab,103,76,73.79,69.9,0,Practical,Yes,No,No,Rainy,No,15
+05-08-2026,Wednesday,4,11:15:00,12:15:00,Mini Project,F_RSZ,3,MCA,A,Computer Lab,103,67,65.05,73.79,0,Practical,Yes,No,No,Sunny,No,15
+05-08-2026,Wednesday,1,08:30:00,09:15:00,Mobile Application Development,F_SSP,3,MCA,B,Computer Lab,101,56,55.45,,,Practical,Yes,No,No,Cloudy,No,9
+05-08-2026,Wednesday,2,09:15:00,10:15:00,Mobile Application Development,F_SSP,3,MCA,B,Computer Lab,101,65,64.36,55.45,0,Practical,Yes,No,No,Rainy,No,9
+05-08-2026,Wednesday,3,10:15:00,11:15:00,Mini Project,F_RSZ,3,MCA,B,Computer Lab,101,61,60.4,64.36,0,Practical,Yes,No,No,Cloudy,No,15
+05-08-2026,Wednesday,4,11:15:00,12:15:00,Mini Project,F_RSZ,3,MCA,B,Computer Lab,101,62,61.39,60.4,0,Practical,Yes,No,No,Rainy,No,15
+06-08-2026,Thursday,1,08:30:00,09:15:00,Mobile Application Development,F_SSP,3,MCA,A,Computer Lab,103,60,58.25,,,Theory,Yes,No,No,Cloudy,No,9
+06-08-2026,Thursday,2,09:15:00,10:15:00,Mobile Application Development,F_SSP,3,MCA,A,Computer Lab,103,72,69.9,58.25,0,Theory,Yes,No,No,Rainy,No,9
+06-08-2026,Thursday,3,10:15:00,11:15:00,Innovation and Entrepreneurship Development,F_JSP,3,MCA,A,Computer Lab,103,66,64.08,69.9,0,Theory,Yes,No,No,Cloudy,No,12
+06-08-2026,Thursday,4,11:15:00,12:15:00,Innovation and Entrepreneurship Development,F_JSP,3,MCA,A,Computer Lab,103,73,70.87,64.08,0,Theory,Yes,No,No,Rainy,Yes,12
+06-08-2026,Thursday,5,13:30:00,15:30:00,STQA Practical,F_DPY,3,MCA,A,Computer Lab,103,63,61.17,70.87,1.25,Practical,Yes,Yes,No,Sunny,No,6
+06-08-2026,Thursday,1,08:30:00,09:15:00,Mobile Application Development,F_SSP,3,MCA,B,Computer Lab,101,72,71.29,,,Theory,Yes,No,No,Cloudy,No,9
+06-08-2026,Thursday,2,09:15:00,10:15:00,Mobile Application Development,F_SSP,3,MCA,B,Computer Lab,101,68,67.33,71.29,0,Theory,Yes,Yes,No,Cloudy,No,9
+06-08-2026,Thursday,3,10:15:00,11:15:00,Innovation and Entrepreneurship Development,F_JSP,3,MCA,B,Computer Lab,101,51,50.5,67.33,0,Theory,Yes,No,No,Rainy,No,12
+06-08-2026,Thursday,4,11:15:00,12:15:00,Innovation and Entrepreneurship Development,F_JSP,3,MCA,B,Computer Lab,101,58,57.43,50.5,0,Theory,Yes,No,No,Rainy,No,12
+06-08-2026,Thursday,5,13:30:00,15:30:00,STQA Practical,F_DPY,3,MCA,B,Computer Lab,101,52,51.49,57.43,1.25,Practical,Yes,No,No,Sunny,Yes,6
+07-08-2026,Friday,1,08:30:00,09:15:00,Mobile Application Development,F_SSP,3,MCA,A,Computer Lab,103,88,85.44,,,Theory,Yes,No,No,Rainy,No,9
+07-08-2026,Friday,2,09:15:00,10:15:00,Mobile Application Development,F_SSP,3,MCA,A,Computer Lab,103,79,76.7,85.44,0,Theory,Yes,No,No,Rainy,No,9
+07-08-2026,Friday,3,10:15:00,11:15:00,Principles of Cloud Management and Security,F_KSD,3,MCA,A,Computer Lab,103,73,70.87,76.7,0,Theory,Yes,No,No,Rainy,No,7
+07-08-2026,Friday,4,11:15:00,12:15:00,Data Science & Machine Learning,F_SP,3,MCA,A,Computer Lab,103,86,83.5,70.87,0,Theory,Yes,No,No,Rainy,No,8
+07-08-2026,Friday,5,13:30:00,15:30:00,DS & ML Practical,F_MLK,3,MCA,A,Computer Lab,103,77,74.76,83.5,1.25,Practical,Yes,No,No,Rainy,No,11
+07-08-2026,Friday,1,08:30:00,09:15:00,Mobile Application Development,F_SSP,3,MCA,B,Computer Lab,101,66,65.35,,,Theory,Yes,No,No,Rainy,No,9
+07-08-2026,Friday,2,09:15:00,10:15:00,Mobile Application Development,F_SSP,3,MCA,B,Computer Lab,101,88,87.13,65.35,0,Theory,Yes,No,No,Rainy,No,9
+07-08-2026,Friday,3,10:15:00,11:15:00,Principles of Cloud Management and Security,F_KSD,3,MCA,B,Computer Lab,101,87,86.14,87.13,0,Theory,Yes,No,No,Cloudy,No,7
+07-08-2026,Friday,4,11:15:00,12:15:00,Data Science & Machine Learning,F_SP,3,MCA,B,Computer Lab,101,79,78.22,86.14,0,Theory,Yes,No,No,Sunny,No,8
+07-08-2026,Friday,5,13:30:00,15:30:00,DS & ML Practical,F_MLK,3,MCA,B,Computer Lab,101,52,51.49,78.22,1.25,Practical,Yes,No,No,Rainy,No,11
+08-08-2026,Saturday,1,08:30:00,09:15:00,Mobile Application Development,F_SSP,3,MCA,A,Computer Lab,103,47,45.63,,,Theory,Yes,No,No,Cloudy,No,9
+08-08-2026,Saturday,2,09:15:00,10:15:00,Mobile Application Development,F_SSP,3,MCA,A,Computer Lab,103,61,59.22,45.63,0,Theory,Yes,No,No,Rainy,No,9
+08-08-2026,Saturday,3,10:15:00,11:15:00,Software Testing and Quality Assurance,F_DPY,3,MCA,A,Computer Lab,103,71,68.93,59.22,0,Theory,Yes,No,No,Rainy,No,6
+08-08-2026,Saturday,4,11:15:00,12:15:00,Principles of Cloud Management and Security,F_KSD,3,MCA,A,Computer Lab,103,71,68.93,68.93,0,Theory,Yes,Yes,No,Rainy,No,7
+08-08-2026,Saturday,5,13:30:00,15:30:00,Innovation and Entrepreneurship Development,F_JSP,3,MCA,A,Computer Lab,103,78,75.73,68.93,1.25,Theory,Yes,No,No,Rainy,No,12
+08-08-2026,Saturday,1,08:30:00,09:15:00,Mobile Application Development,F_SSP,3,MCA,B,Computer Lab,101,64,63.37,,,Theory,Yes,No,No,Rainy,No,9
+08-08-2026,Saturday,2,09:15:00,10:15:00,Mobile Application Development,F_SSP,3,MCA,B,Computer Lab,101,94,93.07,63.37,0,Theory,Yes,No,No,Sunny,No,9
+08-08-2026,Saturday,3,10:15:00,11:15:00,Software Testing and Quality Assurance,F_DPY,3,MCA,B,Computer Lab,101,74,73.27,93.07,0,Theory,Yes,No,No,Rainy,No,6
+08-08-2026,Saturday,4,11:15:00,12:15:00,Principles of Cloud Management and Security,F_KSD,3,MCA,B,Computer Lab,101,56,55.45,73.27,0,Theory,Yes,No,No,Sunny,No,7
+08-08-2026,Saturday,5,13:30:00,15:30:00,Innovation and Entrepreneurship Development,F_JSP,3,MCA,B,Computer Lab,101,70,69.31,55.45,1.25,Theory,Yes,No,No,Cloudy,No,12
+10-08-2026,Monday,1,08:30:00,09:15:00,Mobile Application Development,F_SSP,3,MCA,A,Computer Lab,103,68,66.02,,,Theory,No,No,No,Rainy,No,9
+10-08-2026,Monday,2,09:15:00,10:15:00,Mobile Application Development,F_SSP,3,MCA,A,Computer Lab,103,69,66.99,66.02,0,Theory,No,No,No,Sunny,No,9
+10-08-2026,Monday,3,10:15:00,11:15:00,Data Science & Machine Learning,F_SP,3,MCA,A,Computer Lab,103,77,74.76,66.99,0,Theory,No,No,No,Rainy,No,8
+10-08-2026,Monday,4,11:15:00,12:15:00,Software Testing and Quality Assurance,F_DPY,3,MCA,A,Computer Lab,103,72,69.9,74.76,0,Theory,No,No,No,Rainy,No,6
+10-08-2026,Monday,5,13:30:00,15:30:00,Industry Readiness Program,F_Visiting,3,MCA,A,Computer Lab,103,77,74.76,69.9,1.25,Theory,No,No,No,Cloudy,No,4
+10-08-2026,Monday,1,08:30:00,09:15:00,Mobile Application Development,F_SSP,3,MCA,B,Computer Lab,101,81,80.2,,,Theory,No,No,No,Sunny,No,9
+10-08-2026,Monday,2,09:15:00,10:15:00,Mobile Application Development,F_SSP,3,MCA,B,Computer Lab,101,87,86.14,80.2,0,Theory,No,No,No,Rainy,No,9
+10-08-2026,Monday,3,10:15:00,11:15:00,Data Science & Machine Learning,F_SP,3,MCA,B,Computer Lab,101,73,72.28,86.14,0,Theory,No,No,No,Cloudy,No,8
+10-08-2026,Monday,4,11:15:00,12:15:00,Software Testing and Quality Assurance,F_DPY,3,MCA,B,Computer Lab,101,66,65.35,72.28,0,Theory,No,No,No,Sunny,No,6
+10-08-2026,Monday,5,13:30:00,15:30:00,Industry Readiness Program,F_Visiting,3,MCA,B,Computer Lab,101,74,73.27,65.35,1.25,Theory,No,No,No,Cloudy,No,4
+11-08-2026,Tuesday,1,08:30:00,09:15:00,Mobile Application Development,F_SSP,3,MCA,A,Computer Lab,103,90,87.38,,,Theory,No,No,No,Sunny,No,9
+11-08-2026,Tuesday,2,09:15:00,10:15:00,Mobile Application Development,F_SSP,3,MCA,A,Computer Lab,103,74,71.84,87.38,0,Theory,No,No,No,Sunny,No,9
+11-08-2026,Tuesday,3,10:15:00,11:15:00,Data Science & Machine Learning,F_SP,3,MCA,A,Computer Lab,103,103,100,71.84,0,Theory,No,No,No,Rainy,No,8
+11-08-2026,Tuesday,4,11:15:00,12:15:00,Principles of Cloud Management and Security,F_KSD,3,MCA,A,Computer Lab,103,74,71.84,100,0,Theory,No,No,No,Rainy,No,7
+11-08-2026,Tuesday,5,13:30:00,15:30:00,Software Testing and Quality Assurance,F_DPY,3,MCA,A,Computer Lab,103,84,81.55,71.84,1.25,Practical,No,No,No,Rainy,No,6
+11-08-2026,Tuesday,1,08:30:00,09:15:00,Mobile Application Development,F_SSP,3,MCA,B,Computer Lab,101,77,76.24,,,Theory,No,No,No,Cloudy,No,9
+11-08-2026,Tuesday,2,09:15:00,10:15:00,Mobile Application Development,F_SSP,3,MCA,B,Computer Lab,101,80,79.21,76.24,0,Theory,No,No,No,Sunny,No,9
+11-08-2026,Tuesday,3,10:15:00,11:15:00,Data Science & Machine Learning,F_SP,3,MCA,B,Computer Lab,101,82,81.19,79.21,0,Theory,No,No,No,Cloudy,No,8
+11-08-2026,Tuesday,4,11:15:00,12:15:00,Principles of Cloud Management and Security,F_KSD,3,MCA,B,Computer Lab,101,76,75.25,81.19,0,Theory,No,No,No,Rainy,No,7
+11-08-2026,Tuesday,5,13:30:00,15:30:00,Software Testing and Quality Assurance,F_DPY,3,MCA,B,Computer Lab,101,66,65.35,75.25,1.25,Practical,No,No,No,Rainy,No,6
+12-08-2026,Wednesday,1,08:30:00,09:15:00,Mobile Application Development,F_SSP,3,MCA,A,Computer Lab,103,75,72.82,,,Practical,No,No,No,Rainy,No,9
+12-08-2026,Wednesday,2,09:15:00,10:15:00,Mobile Application Development,F_SSP,3,MCA,A,Computer Lab,103,74,71.84,72.82,0,Practical,No,No,No,Cloudy,No,9
+12-08-2026,Wednesday,3,10:15:00,11:15:00,Mini Project,F_RSZ,3,MCA,A,Computer Lab,103,72,69.9,71.84,0,Practical,No,No,No,Cloudy,No,15
+12-08-2026,Wednesday,4,11:15:00,12:15:00,Mini Project,F_RSZ,3,MCA,A,Computer Lab,103,62,60.19,69.9,0,Practical,No,Yes,No,Rainy,No,15
+12-08-2026,Wednesday,1,08:30:00,09:15:00,Mobile Application Development,F_SSP,3,MCA,B,Computer Lab,101,70,69.31,,,Practical,No,Yes,No,Cloudy,No,9
+12-08-2026,Wednesday,2,09:15:00,10:15:00,Mobile Application Development,F_SSP,3,MCA,B,Computer Lab,101,63,62.38,69.31,0,Practical,No,No,No,Rainy,No,9
+12-08-2026,Wednesday,3,10:15:00,11:15:00,Mini Project,F_RSZ,3,MCA,B,Computer Lab,101,95,94.06,62.38,0,Practical,No,Yes,No,Rainy,No,15
+12-08-2026,Wednesday,4,11:15:00,12:15:00,Mini Project,F_RSZ,3,MCA,B,Computer Lab,101,50,49.5,94.06,0,Practical,No,No,No,Rainy,No,15
+13-08-2026,Thursday,1,08:30:00,09:15:00,Mobile Application Development,F_SSP,3,MCA,A,Computer Lab,103,77,74.76,,,Theory,No,No,No,Rainy,No,9
+13-08-2026,Thursday,2,09:15:00,10:15:00,Mobile Application Development,F_SSP,3,MCA,A,Computer Lab,103,87,84.47,74.76,0,Theory,No,No,No,Cloudy,No,9
+13-08-2026,Thursday,3,10:15:00,11:15:00,Innovation and Entrepreneurship Development,F_JSP,3,MCA,A,Computer Lab,103,84,81.55,84.47,0,Theory,No,No,No,Cloudy,No,12
+13-08-2026,Thursday,4,11:15:00,12:15:00,Innovation and Entrepreneurship Development,F_JSP,3,MCA,A,Computer Lab,103,96,93.2,81.55,0,Theory,No,No,No,Rainy,No,12
+13-08-2026,Thursday,5,13:30:00,15:30:00,STQA Practical,F_DPY,3,MCA,A,Computer Lab,103,71,68.93,93.2,1.25,Practical,No,No,No,Cloudy,No,6
+13-08-2026,Thursday,1,08:30:00,09:15:00,Mobile Application Development,F_SSP,3,MCA,B,Computer Lab,101,54,53.47,,,Theory,No,No,No,Rainy,No,9
+13-08-2026,Thursday,2,09:15:00,10:15:00,Mobile Application Development,F_SSP,3,MCA,B,Computer Lab,101,60,59.41,53.47,0,Theory,No,No,No,Rainy,No,9
+13-08-2026,Thursday,3,10:15:00,11:15:00,Innovation and Entrepreneurship Development,F_JSP,3,MCA,B,Computer Lab,101,65,64.36,59.41,0,Theory,No,No,No,Cloudy,No,12
+13-08-2026,Thursday,4,11:15:00,12:15:00,Innovation and Entrepreneurship Development,F_JSP,3,MCA,B,Computer Lab,101,44,43.56,64.36,0,Theory,No,No,No,Sunny,No,12
+13-08-2026,Thursday,5,13:30:00,15:30:00,STQA Practical,F_DPY,3,MCA,B,Computer Lab,101,59,58.42,43.56,1.25,Practical,No,No,No,Cloudy,No,6
+14-08-2026,Friday,1,08:30:00,09:15:00,Mobile Application Development,F_SSP,3,MCA,A,Computer Lab,103,67,65.05,,,Theory,No,No,Before,Rainy,No,9
+14-08-2026,Friday,2,09:15:00,10:15:00,Mobile Application Development,F_SSP,3,MCA,A,Computer Lab,103,81,78.64,65.05,0,Theory,No,No,Before,Cloudy,No,9
+14-08-2026,Friday,3,10:15:00,11:15:00,Principles of Cloud Management and Security,F_KSD,3,MCA,A,Computer Lab,103,80,77.67,78.64,0,Theory,No,No,Before,Cloudy,No,7
+14-08-2026,Friday,4,11:15:00,12:15:00,Data Science & Machine Learning,F_SP,3,MCA,A,Computer Lab,103,69,66.99,77.67,0,Theory,No,No,Before,Cloudy,No,8
+14-08-2026,Friday,5,13:30:00,15:30:00,DS & ML Practical,F_MLK,3,MCA,A,Computer Lab,103,77,74.76,66.99,1.25,Practical,No,No,Before,Rainy,No,11
+14-08-2026,Friday,1,08:30:00,09:15:00,Mobile Application Development,F_SSP,3,MCA,B,Computer Lab,101,62,61.39,,,Theory,No,No,Before,Rainy,No,9
+14-08-2026,Friday,2,09:15:00,10:15:00,Mobile Application Development,F_SSP,3,MCA,B,Computer Lab,101,70,69.31,61.39,0,Theory,No,No,Before,Rainy,No,9
+14-08-2026,Friday,3,10:15:00,11:15:00,Principles of Cloud Management and Security,F_KSD,3,MCA,B,Computer Lab,101,79,78.22,69.31,0,Theory,No,No,Before,Sunny,No,7
+14-08-2026,Friday,4,11:15:00,12:15:00,Data Science & Machine Learning,F_SP,3,MCA,B,Computer Lab,101,60,59.41,78.22,0,Theory,No,No,Before,Cloudy,No,8
+14-08-2026,Friday,5,13:30:00,15:30:00,DS & ML Practical,F_MLK,3,MCA,B,Computer Lab,101,65,64.36,59.41,1.25,Practical,No,No,Before,Rainy,No,11
