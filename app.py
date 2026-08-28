@@ -44,7 +44,7 @@ def load_all_files():
 
 try:
     models, scaler, label_encoder, feature_names, df = load_all_files()
-    st.sidebar.success("✅ All Model Artifacts Loaded from 'models/' Folder!")
+    st.sidebar.success("✅ All Model Artifacts Loaded ")
 except Exception as e:
     st.error(f"Error loading files: {e}. Please ensure all .pkl files exist inside the 'models/' folder.")
 
